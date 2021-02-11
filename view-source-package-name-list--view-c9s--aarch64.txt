@@ -811,7 +811,6 @@ libecap
 libeconf
 libecpg
 libedit
-libell
 libepoxy
 libepubgen
 liberation-fonts
@@ -1156,7 +1155,6 @@ mpfr
 mpg123
 mpich
 mpitests
-mptcpd
 mrtg
 mstflint
 mt-st
