@@ -82,6 +82,7 @@ autofs
 autogen
 automake
 avahi
+awscli
 babel
 babeltrace
 babl
@@ -104,6 +105,7 @@ bogofilter
 bolt
 boom-boot
 boost
+booth
 bpftrace
 brasero
 brltty
@@ -176,6 +178,7 @@ convmv
 copy-jdk-configs
 coreutils
 corosync
+corosync-qdevice
 cpio
 cracklib
 crash
@@ -676,6 +679,7 @@ ipset
 iptables
 iptraf-ng
 iputils
+ipvsadm
 ipxe
 irqbalance
 irssi
@@ -1270,6 +1274,7 @@ oci-seccomp-bpf-hook
 ocl-icd
 oddjob
 ogdi
+omping
 ongres-scram
 oniguruma
 opae
@@ -1639,6 +1644,7 @@ python-certifi
 python-cffi
 python-chardet
 python-click
+python-colorama
 python-configargparse
 python-configobj
 python-configshell
@@ -1977,6 +1983,7 @@ soundtouch
 source-highlight
 spamassassin
 sparsehash
+spausedd
 speech-dispatcher
 speech-tools
 speex
