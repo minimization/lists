@@ -46,6 +46,9 @@ anaconda-user-help
 annobin
 ansible
 ansible-freeipa
+ant
+antlr
+aopalliance
 apache-commons-cli
 apache-commons-codec
 apache-commons-collections
@@ -64,9 +67,11 @@ arpack
 arptables
 asciidoc
 aspell
+assertj-core
 at
 at-spi2-atk
 at-spi2-core
+atinject
 atk
 atkmm
 atlas
@@ -91,6 +96,7 @@ bash
 bash-completion
 bc
 bcc
+bcel
 bind
 bind-dyndb-ldap
 binutils
@@ -107,10 +113,12 @@ bpftrace
 brasero
 brltty
 brotli
+bsf
 btrfs-progs
 bubblewrap
 buildah
 byacc
+byte-buddy
 byteman
 bzip2
 c-ares
@@ -120,6 +128,7 @@ cachefilesd
 cairo
 cairomm
 catch1
+cdi-api
 cdparanoia
 cdrdao
 cdrkit
@@ -412,6 +421,7 @@ google-api-python-client
 google-auth-httplib2
 google-carlito-fonts
 google-droid-fonts
+google-guice
 google-noto-cjk-fonts
 google-noto-emoji-fonts
 google-noto-fonts
@@ -450,14 +460,17 @@ gtk4
 gtkmm30
 gtksourceview4
 gtkspell3
+guava
 gubbi-fonts
 guile
 guile22
 gutenprint
 gvfs
 gzip
+hamcrest
 haproxy
 harfbuzz
+hawtjni
 hdf
 hdf5
 hdparm
@@ -682,7 +695,14 @@ jackson-databind
 jackson-jaxrs-providers
 jackson-modules-base
 jakarta-activation
+jakarta-annotations
+jakarta-el
+jakarta-interceptors
+jakarta-mail
+jakarta-oro
 jansi
+jansi-native
+jansi1
 jansson
 jasper
 java-1.8.0-openjdk
@@ -699,6 +719,8 @@ jboss-jaxrs-2.0-api
 jboss-logging
 jboss-logging-tools
 jdeparser
+jdepend
+jemalloc
 jitterentropy
 jline
 jna
@@ -706,11 +728,17 @@ jomolhari-fonts
 jose
 jq
 js-d3-flame-graph
+jsch
 json-c
 json-glib
 jsoncpp
+jsoup
+jsr-305
 jss
 julietaula-montserrat-fonts
+junit
+junit5
+jzlib
 kabi-dw
 kacst-fonts
 kbd
@@ -976,6 +1004,7 @@ libsecret
 libselinux
 libsemanage
 libsepol
+libserf
 libserializer
 libservicelog
 libshout
@@ -1070,6 +1099,7 @@ llvm-toolset
 lm_sensors
 lmdb
 lockdev
+log4j
 logrotate
 logwatch
 lohit-assamese-fonts
@@ -1123,6 +1153,10 @@ mariadb-connector-odbc
 mariadb-java-client
 marisa
 matchbox-window-manager
+maven
+maven-resolver
+maven-shared-utils
+maven-wagon
 mc
 mcpp
 mcstrans
@@ -1243,6 +1277,7 @@ numpy
 nvme-cli
 nvmetcli
 nvml
+objectweb-asm
 ocaml-srpm-macros
 oci-seccomp-bpf-hook
 ocl-icd
@@ -1280,6 +1315,7 @@ openssh
 openssl
 openssl-ibmpkcs11
 openssl-pkcs11
+opentest4j
 openwsman
 opus
 orangefs
@@ -1383,6 +1419,7 @@ perl-ExtUtils-MakeMaker
 perl-ExtUtils-Manifest
 perl-ExtUtils-ParseXS
 perl-FCGI
+perl-Fedora-VSP
 perl-File-Fetch
 perl-File-HomeDir
 perl-File-Listing
@@ -1461,6 +1498,7 @@ perl-Perl-OSType
 perl-PerlIO-via-QuotedPrint
 perl-Pod-Checker
 perl-Pod-Escapes
+perl-Pod-Parser
 perl-Pod-Perldoc
 perl-Pod-Simple
 perl-Pod-Usage
@@ -1480,6 +1518,8 @@ perl-Sys-MemInfo
 perl-Sys-Syslog
 perl-Term-ANSIColor
 perl-Term-Cap
+perl-Term-Size-Any
+perl-Term-Size-Perl
 perl-Term-Table
 perl-TermReadKey
 perl-Test-Harness
@@ -1520,6 +1560,7 @@ perl-autodie
 perl-bignum
 perl-constant
 perl-experimental
+perl-generators
 perl-inc-latest
 perl-libintl-perl
 perl-libnet
@@ -1548,6 +1589,12 @@ pipewire0.2
 pixman
 pkgconf
 pki-core
+plexus-cipher
+plexus-classworlds
+plexus-containers
+plexus-interpolation
+plexus-sec-dispatcher
+plexus-utils
 plotnetcfg
 plotutils
 plymouth
@@ -1815,6 +1862,7 @@ redhat-release
 redhat-rpm-config
 redis
 redland
+regexp
 resource-agents
 resource-agents-sap
 resource-agents-sap-hana
@@ -1917,6 +1965,7 @@ sil-nuosu-fonts
 sil-padauk-fonts
 sil-scheherazade-fonts
 sip
+sisu
 skkdic
 skopeo
 slang
@@ -1965,6 +2014,7 @@ stratis-cli
 stratisd
 subscription-manager
 subunit
+subversion
 sudo
 suitesparse
 supermin
@@ -2040,6 +2090,7 @@ udisks2
 unbound
 unicode-ucd
 units
+univocity-parsers
 unixODBC
 unzip
 upower
@@ -2055,11 +2106,14 @@ usbredir
 usbutils
 usermode
 userspace-rcu
+utf8proc
 util-linux
 uuid
 v4l-utils
 vala
 valgrind
+varnish
+varnish-modules
 velocity
 vemana2000-fonts
 vhostmd
@@ -2148,6 +2202,7 @@ xrestop
 xsane
 xterm
 xz
+xz-java
 yajl
 yelp
 yelp-tools
