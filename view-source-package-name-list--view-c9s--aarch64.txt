@@ -169,6 +169,7 @@ coin-or-Osi
 color-filesystem
 colord
 colord-gtk
+compat-libgfortran-48
 compat-readline5
 compiler-rt
 conmon

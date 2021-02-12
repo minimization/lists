@@ -43,6 +43,7 @@ ant
 ant-contrib
 anthy
 antlr
+antlr32
 aopalliance
 apache-commons-beanutils
 apache-commons-cli
@@ -119,6 +120,7 @@ blosc
 bluez
 bolt
 boost
+bouncycastle
 brltty
 brotli
 bsf
@@ -284,6 +286,8 @@ fakeroot
 fasterxml-oss-parent
 fdk-aac-free
 fedora-bookmarks
+felix-gogo-parent
+felix-gogo-runtime
 felix-parent
 felix-utils
 fftw
@@ -588,6 +592,7 @@ ibus-table-chinese
 ibus-table-others
 icoutils
 icu
+icu4j
 iio-sensor-proxy
 ilmbase
 ima-evm-utils
@@ -672,11 +677,18 @@ jdepend
 jdependency
 jdom
 jdom2
+jemalloc
+jffi
 jflex
 jitterentropy
 jline2
 jmock
 jna
+jnr-constants
+jnr-ffi
+jnr-netdb
+jnr-posix
+jnr-x86asm
 jose
 jq
 js-jquery
@@ -690,6 +702,7 @@ jss
 jtidy
 junit
 junit5
+jython
 jzlib
 kbd
 kde-filesystem
@@ -1187,6 +1200,7 @@ net-tools
 netcdf
 netpbm
 nettle
+netty
 network-manager-applet
 newt
 nfs-utils
@@ -1271,6 +1285,7 @@ openwsman
 opus
 orangefs
 orc
+os-maven-plugin
 os-prober
 osgi-annotation
 osgi-compendium
@@ -1279,6 +1294,7 @@ osinfo-db
 osinfo-db-tools
 ostree
 overpass-fonts
+owasp-java-encoder
 p11-kit
 p7zip
 pacemaker
@@ -2421,6 +2437,7 @@ star
 startup-notification
 stax2-api
 strace
+stringtemplate
 stunnel
 subscription-manager
 subunit
@@ -2510,6 +2527,7 @@ uuid
 v4l-utils
 vala
 valgrind
+varnish
 velocity
 vim
 virt-what
@@ -2564,6 +2582,7 @@ xkbcomp
 xkeyboard-config
 xml-commons-apis
 xml-commons-resolver
+xmlgraphics-commons
 xmlrpc-c
 xmlsec1
 xmlstarlet
