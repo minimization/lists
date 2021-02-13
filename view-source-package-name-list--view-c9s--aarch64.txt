@@ -1802,7 +1802,11 @@ rsyslog
 rtkit
 ruby
 rubygem-abrt
+rubygem-bson
 rubygem-diff-lcs
+rubygem-mongo
+rubygem-mysql2
+rubygem-pg
 rubygem-rspec
 rubygem-rspec-core
 rubygem-rspec-expectations

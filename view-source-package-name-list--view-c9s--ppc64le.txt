@@ -1891,13 +1891,17 @@ rtkit
 ruby
 rubygem-abrt
 rubygem-backports
+rubygem-bson
 rubygem-daemons
 rubygem-diff-lcs
 rubygem-ethon
 rubygem-eventmachine
 rubygem-ffi
+rubygem-mongo
 rubygem-mustermann
+rubygem-mysql2
 rubygem-open4
+rubygem-pg
 rubygem-rack
 rubygem-rack-protection
 rubygem-rack-test
