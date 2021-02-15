@@ -832,7 +832,6 @@ libfido2
 libfontenc
 libfonts
 libformula
-libfprint
 libfreehand
 libftdi
 libgcrypt
@@ -1019,7 +1018,6 @@ libvirt-glib
 libvirt-python
 libvisio
 libvisual
-libvncserver
 libvoikko
 libvorbis
 libvpx

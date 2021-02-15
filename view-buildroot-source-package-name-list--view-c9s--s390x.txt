@@ -1002,7 +1002,6 @@ libvirt-glib
 libvirt-python
 libvisio
 libvisual
-libvncserver
 libvoikko
 libvorbis
 libvpx
