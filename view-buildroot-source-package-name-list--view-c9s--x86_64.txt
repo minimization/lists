@@ -2157,7 +2157,6 @@ python-u-msgpack-python
 python-uamqp
 python-uritemplate
 python-urllib3
-python-utils
 python-venusian
 python-virtualenv
 python-voluptuous
