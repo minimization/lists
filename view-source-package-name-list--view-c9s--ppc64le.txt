@@ -80,6 +80,7 @@ audit
 augeas
 authselect
 autoconf
+autoconf-archive
 autofs
 autogen
 automake
@@ -140,6 +141,7 @@ check
 checkpolicy
 cheese
 chkconfig
+chrome-gnome-shell
 chrony
 chrpath
 cifs-utils
@@ -311,6 +313,7 @@ fonts-rpm-macros
 foomatic
 foomatic-db
 fpc-srpm-macros
+fprintd
 freeglut
 freeipa
 freeipa-healthcheck
@@ -373,12 +376,17 @@ glusterfs
 gmp
 gnat-srpm-macros
 gnome-autoar
+gnome-backgrounds
 gnome-bluetooth
 gnome-calculator
 gnome-characters
+gnome-color-manager
+gnome-common
 gnome-control-center
 gnome-desktop3
+gnome-devel-docs
 gnome-disk-utility
+gnome-extensions-app
 gnome-font-viewer
 gnome-getting-started-docs
 gnome-initial-setup
@@ -388,16 +396,19 @@ gnome-menus
 gnome-online-accounts
 gnome-online-miners
 gnome-photos
+gnome-remote-desktop
 gnome-screenshot
 gnome-session
 gnome-settings-daemon
 gnome-shell
+gnome-shell-extension-dash-to-dock
 gnome-shell-extensions
 gnome-software
 gnome-system-monitor
 gnome-terminal
 gnome-themes-extra
 gnome-tour
+gnome-tweaks
 gnome-user-docs
 gnome-video-effects
 gnupg2
@@ -677,6 +688,7 @@ iscsi-initiator-utils
 isns-utils
 iso-codes
 isomd5sum
+itstool
 iw
 jackson-annotations
 jackson-core
@@ -855,6 +867,7 @@ libfido2
 libfontenc
 libfonts
 libformula
+libfprint
 libfreehand
 libgcrypt
 libgdata
@@ -875,6 +888,7 @@ libguestfs
 libgusb
 libgweather
 libgxps
+libhandy
 libhandy1
 libhangul
 libharu
@@ -1045,6 +1059,7 @@ libvirt-python
 libvisio
 libvisual
 libvma
+libvncserver
 libvoikko
 libvorbis
 libvpd
@@ -1131,6 +1146,7 @@ madan-fonts
 mailcap
 mailx
 make
+mallard-rng
 man-db
 man-pages
 mariadb
@@ -1602,6 +1618,7 @@ postgresql-jdbc
 postgresql-odbc
 pothana2000-fonts
 potrace
+power-profiles-daemon
 powerpc-utils
 powertop
 ppc64-diag
@@ -2082,6 +2099,7 @@ univocity-parsers
 unixODBC
 unzip
 upower
+uresourced
 uriparser
 urlview
 urw-base35-fonts
@@ -2149,6 +2167,8 @@ xcb-util-wm
 xdg-dbus-proxy
 xdg-desktop-portal
 xdg-desktop-portal-gtk
+xdg-user-dirs
+xdg-user-dirs-gtk
 xdg-utils
 xdp-tools
 xerces-c
@@ -2190,6 +2210,7 @@ xz
 xz-java
 yajl
 yelp
+yelp-tools
 yelp-xsl
 zaf
 zchunk
