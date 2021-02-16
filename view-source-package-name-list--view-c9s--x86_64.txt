@@ -43,7 +43,6 @@ alsa-tools
 alsa-utils
 amanda
 amtk
-amtterm
 anaconda
 anaconda-user-help
 annobin
@@ -125,7 +124,6 @@ brasero
 brltty
 brotli
 bsf
-btrfs-progs
 bubblewrap
 buildah
 byacc
@@ -304,7 +302,6 @@ exiv2
 expat
 expect
 fabtests
-fakeroot
 fapolicyd
 fcoe-utils
 fdk-aac-free
@@ -735,7 +732,6 @@ jakarta-mail
 jakarta-oro
 jakarta-server-pages
 jakarta-servlet
-jansi
 jansi-native
 jansi1
 jansson
@@ -758,7 +754,7 @@ jdepend
 jemalloc
 jetty
 jitterentropy
-jline
+jline2
 jmc
 jmc-core
 jna
@@ -865,7 +861,6 @@ libcbor
 libcdio
 libcdio-paranoia
 libcdr
-libcgroup
 libcmis
 libcomps
 libconfig
@@ -955,7 +950,6 @@ liblangtag
 liblayout
 libldac
 libldb
-libldm
 libloader
 liblockfile
 liblognorm
@@ -1334,7 +1328,6 @@ nodejs-packaging
 npth
 nss
 ntfs-3g
-ntfs-3g-system-compression
 ntpstat
 numactl
 numad
@@ -1446,14 +1439,12 @@ perl-CPAN-Meta-Requirements
 perl-CPAN-Meta-YAML
 perl-Carp
 perl-Carp-Clan
-perl-Class-Inspector
 perl-Compress-Bzip2
 perl-Compress-Raw-Bzip2
 perl-Compress-Raw-Lzma
 perl-Compress-Raw-Zlib
 perl-Config-Perl-V
 perl-Convert-ASN1
-perl-Convert-BinHex
 perl-Crypt-DES
 perl-Crypt-OpenSSL-Bignum
 perl-Crypt-OpenSSL-RSA
@@ -1477,7 +1468,6 @@ perl-Digest-HMAC
 perl-Digest-MD5
 perl-Digest-SHA
 perl-Digest-SHA1
-perl-Email-Date-Format
 perl-Encode
 perl-Encode-Detect
 perl-Encode-Locale
@@ -1514,7 +1504,6 @@ perl-IO-Compress
 perl-IO-Compress-Lzma
 perl-IO-HTML
 perl-IO-Multiplex
-perl-IO-SessionData
 perl-IO-Socket-INET6
 perl-IO-Socket-IP
 perl-IO-Socket-SSL
@@ -1530,9 +1519,6 @@ perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-Locale-Maketext
 perl-MIME-Base64
-perl-MIME-Lite
-perl-MIME-Types
-perl-MIME-tools
 perl-MRO-Compat
 perl-Mail-AuthenticationResults
 perl-Mail-DKIM
@@ -1575,7 +1561,6 @@ perl-Pod-Simple
 perl-Pod-Usage
 perl-SGMLSpm
 perl-SNMP_Session
-perl-SOAP-Lite
 perl-Scalar-List-Utils
 perl-Socket
 perl-Socket6
@@ -1720,7 +1705,6 @@ pyodbc
 pyparsing
 pyparted
 pyserial
-pytest
 python-PyMySQL
 python-adal
 python-aiodns
@@ -1763,22 +1747,18 @@ python-enchant
 python-ethtool
 python-fasteners
 python-funcsigs
-python-gevent
 python-google-api-core
 python-google-auth
 python-googleapis-common-protos
-python-greenlet
 python-grpcio-gcp
 python-gssapi
 python-httplib2
 python-idna
-python-iniconfig
 python-iniparse
 python-inotify
 python-into-dbus-python
 python-iso8601
 python-isodate
-python-itsdangerous
 python-jinja2
 python-jmespath
 python-jsonpatch
@@ -1824,24 +1804,20 @@ python-pbr
 python-pexpect
 python-pid
 python-pip
-python-pluggy
 python-ply
 python-podman-api
 python-portalocker
 python-prettytable
 python-productmd
-python-progressbar2
 python-psutil
 python-psycopg2
 python-ptyprocess
-python-py
 python-pyasn1
 python-pycares
 python-pycdlib
 python-pycparser
 python-pycurl
 python-pydbus
-python-pymongo
 python-pyrsistent
 python-pysocks
 python-pyudev
@@ -1852,7 +1828,6 @@ python-requests-file
 python-requests-ftp
 python-requests-gssapi
 python-requests-oauthlib
-python-rpm-generators
 python-rpm-macros
 python-rsa
 python-rtslib
@@ -1866,7 +1841,6 @@ python-six
 python-slip
 python-sniffio
 python-sortedcontainers
-python-sqlalchemy
 python-stevedore
 python-suds
 python-systemd
@@ -1879,17 +1853,13 @@ python-uritemplate
 python-urllib-gssapi
 python-urllib3
 python-urwid
-python-utils
 python-varlink
 python-vcrpy
 python-wcwidth
-python-werkzeug
 python-wheel
 python-wrapt
 python-yarl
 python-yubico
-python-zope-event
-python-zope-interface
 python2.7
 python3.9
 pytz
@@ -2077,7 +2047,6 @@ smc-raghumalayalamsans-fonts
 smc-suruma-fonts
 smc-tools
 snappy
-socat
 softhsm
 sos
 sound-theme-freedesktop
@@ -2111,7 +2080,6 @@ strace
 stratis-cli
 stratisd
 stress-ng
-stunnel
 subscription-manager
 subunit
 subversion
@@ -2149,7 +2117,6 @@ tex-fonts-hebrew
 texi2html
 texinfo
 texlive
-tftp
 thai-scalable-fonts
 thermald
 thunderbird
@@ -2321,7 +2288,6 @@ yelp-xsl
 zaf
 zchunk
 zenity
-zerofree
 zip
 zlib
 zsh

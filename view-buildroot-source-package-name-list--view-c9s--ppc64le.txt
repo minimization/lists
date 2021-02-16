@@ -4,22 +4,18 @@ CharLS
 Cython
 GConf2
 HdrHistogram_c
-ImageMagick
 Judy
 LibRaw
 MUMPS
 ModemManager
 NetworkManager
-OpenEXR
 OpenIPMI
 PEGTL
 PackageKit
-PyQt4
 PyYAML
 SDL
 SDL2
 SDL_sound
-SFML
 SLOF
 SuperLU
 Xaw3d
@@ -99,7 +95,6 @@ autoconf-archive
 autoconf213
 autogen
 automake
-automoc
 autotrace
 avahi
 babel
@@ -126,7 +121,6 @@ brltty
 brotli
 bsf
 bsh
-btrfs-progs
 bubblewrap
 byacc
 byaccj
@@ -223,7 +217,6 @@ diffstat
 diffutils
 ding-libs
 disruptor
-djvulibre
 dlm
 dnf
 dnf-plugins-core
@@ -276,11 +269,9 @@ exiv2
 expat
 expect
 extra-cmake-modules
-f33-backgrounds
 fakeroot
 fasterxml-oss-parent
 fdk-aac-free
-fedora-bookmarks
 felix-gogo-parent
 felix-gogo-runtime
 felix-parent
@@ -501,8 +492,6 @@ golang-gopkg-russross-blackfriday-2
 golang-gopkg-yaml-2
 golist
 gom
-google-api-python-client
-google-auth-httplib2
 google-carlito-fonts
 google-droid-fonts
 google-gson
@@ -579,7 +568,6 @@ hunspell-ko
 hwdata
 hwloc
 hyphen
-i3
 ibus
 ibus-table
 ibus-table-chinese
@@ -588,7 +576,6 @@ icoutils
 icu
 icu4j
 iio-sensor-proxy
-ilmbase
 ima-evm-utils
 imaptest
 inih
@@ -700,8 +687,6 @@ junit5
 jython
 jzlib
 kbd
-kde-filesystem
-kde-settings
 kernel
 kernel-headers
 kernel-srpm-macros
@@ -729,6 +714,7 @@ ldns
 lensfun
 leptonica
 less
+leveldb
 libEMF
 libICE
 libIDL
@@ -838,6 +824,7 @@ libgeotiff
 libgexiv2
 libglvnd
 libgnomekbd
+libgovirt
 libgpg-error
 libgphoto2
 libgsf
@@ -874,12 +861,10 @@ liblangtag
 liblayout
 libldac
 libldb
-libldm
 libloader
 liblockfile
 liblognorm
 liblouis
-liblqr-1
 liblrdf
 libmad
 libmatchbox
@@ -1002,6 +987,7 @@ libunicap
 libuninameslist
 libunistring
 libunwind
+liburing
 libusb
 libusbx
 libuser
@@ -1023,7 +1009,6 @@ libvpd
 libvpx
 libwacom
 libwebp
-libwmf
 libwpd
 libwpe
 libwpg
@@ -1069,6 +1054,7 @@ lua-posix
 lua-rpm-macros
 lua-term
 luajit
+luarocks
 luksmeta
 lutok
 lvm2
@@ -1169,7 +1155,6 @@ modello
 mojo-parent
 mongo-c-driver
 motif
-mozilla-filesystem
 mozjs78
 mp
 mpfr
@@ -1211,11 +1196,10 @@ nkf
 nmap
 nodejs
 nodejs-packaging
+nodejs-underscore
 npth
 nss
 nss_wrapper
-ntfs-3g
-ntfs-3g-system-compression
 numactl
 numad
 numpy
@@ -1265,7 +1249,6 @@ openblas
 openblas-srpm-macros
 openchange
 opencl-headers
-openexr
 openjade
 openjpeg2
 openldap
@@ -1321,7 +1304,6 @@ pentaho-reporting-flow-engine
 perl
 perl-Algorithm-Diff
 perl-AnyEvent
-perl-AnyEvent-I3
 perl-Archive-Tar
 perl-Archive-Zip
 perl-Authen-SASL
@@ -1756,7 +1738,6 @@ perl-version
 perltidy
 phodav
 phonon
-phonon-qt4
 php
 php-pear
 physfs
@@ -1785,7 +1766,6 @@ plexus-velocity
 plotutils
 plymouth
 pmix
-pngcrush
 po4a
 policycoreutils
 polkit
@@ -1829,6 +1809,7 @@ python-Bottleneck
 python-CommonMark
 python-Pallets-Sphinx-Themes
 python-PyMySQL
+python-WSGIProxy2
 python-adal
 python-aiodns
 python-aiohttp
@@ -1870,6 +1851,7 @@ python-cppy
 python-cpuinfo
 python-crypto
 python-cryptography
+python-cssselect
 python-cups
 python-curio
 python-cycler
@@ -1920,8 +1902,10 @@ python-greenlet
 python-grpcio-gcp
 python-gssapi
 python-h11
+python-h2
 python-hacking
 python-hamcrest
+python-hpack
 python-html5lib
 python-httpbin
 python-httpcore
@@ -1929,6 +1913,7 @@ python-httplib2
 python-httpretty
 python-httpx
 python-hupper
+python-hyperframe
 python-hyperlink
 python-hypothesis
 python-idna
@@ -2027,7 +2012,6 @@ python-prettytable
 python-priority
 python-process-tests
 python-productmd
-python-progressbar2
 python-prometheus_client
 python-prompt-toolkit
 python-psutil
@@ -2043,8 +2027,10 @@ python-pycurl
 python-pydbus
 python-pygments
 python-pygments-pytest
+python-pylons-sphinx-themes
 python-pymongo
 python-pyperclip
+python-pyquery
 python-pyrad
 python-pyramid
 python-pyrsistent
@@ -2055,7 +2041,6 @@ python-pytest-cov
 python-pytest-expect
 python-pytest-flake8
 python-pytest-forked
-python-pytest-helpers-namespace
 python-pytest-httpbin
 python-pytest-mock
 python-pytest-randomly
@@ -2174,7 +2159,6 @@ python-werkzeug
 python-wheel
 python-whoosh
 python-wrapt
-python-wxpython4
 python-xmlschema
 python-xmp-toolkit
 python-yarl
@@ -2206,8 +2190,6 @@ qpdf
 qpid-proton
 qr-code-generator
 qrencode
-qt
-qt-mobility
 qt3
 qt5
 qt5-doc
@@ -2226,7 +2208,6 @@ qt5-qtwebchannel
 qt5-qtwebsockets
 qt5-qtx11extras
 qt5-qtxmlpatterns
-qtwebkit
 quota
 radvd
 ragel
@@ -2237,6 +2218,7 @@ rdma-core
 re2c
 readline
 realmd
+redhat-bookmarks
 redhat-logos
 redhat-lsb
 redhat-release
@@ -2268,6 +2250,7 @@ rubygem-ansi
 rubygem-aruba
 rubygem-asciidoctor
 rubygem-backports
+rubygem-bcrypt
 rubygem-builder
 rubygem-bundler
 rubygem-childprocess
@@ -2402,7 +2385,6 @@ shared-mime-info
 sharutils
 shrinkwrap
 sip
-sip5
 sisu
 sisu-mojos
 skkdic
@@ -2424,6 +2406,7 @@ speech-dispatcher
 speech-tools
 speex
 speexdsp
+spice-gtk
 spice-parent
 spice-protocol
 spirv-headers
@@ -2502,6 +2485,7 @@ uchardet
 ucpp
 ucx
 udisks2
+uglify-js
 uid_wrapper
 umockdev
 unbound
@@ -2536,7 +2520,6 @@ vte291
 vulkan-headers
 vulkan-loader
 w3m
-waf
 wavpack
 wayland
 wayland-protocols
@@ -2556,18 +2539,15 @@ words
 wpa_supplicant
 wpebackend-fdo
 wsdl4j
-wxGTK3
 xalan-j2
 xapian-core
 xbean
 xcb-proto
 xcb-util
-xcb-util-cursor
 xcb-util-image
 xcb-util-keysyms
 xcb-util-renderutil
 xcb-util-wm
-xcb-util-xrm
 xdg-dbus-proxy
 xdg-desktop-portal
 xdg-desktop-portal-gtk
@@ -2593,7 +2573,6 @@ xmms
 xmvn
 xonsh
 xorg-x11-apps
-xorg-x11-drv-dummy
 xorg-x11-drv-libinput
 xorg-x11-drv-wacom
 xorg-x11-font-utils
@@ -2618,7 +2597,6 @@ yelp-xsl
 z3
 zchunk
 zenity
-zerofree
 zeromq
 zip
 zlib

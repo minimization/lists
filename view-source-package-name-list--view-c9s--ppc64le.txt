@@ -114,7 +114,6 @@ brasero
 brltty
 brotli
 bsf
-btrfs-progs
 bubblewrap
 buildah
 byacc
@@ -282,7 +281,6 @@ exiv2
 expat
 expect
 fabtests
-fakeroot
 fapolicyd
 fcoe-utils
 fdk-aac-free
@@ -701,7 +699,6 @@ jakarta-el
 jakarta-interceptors
 jakarta-mail
 jakarta-oro
-jansi
 jansi-native
 jansi1
 jansson
@@ -723,7 +720,7 @@ jdeparser
 jdepend
 jemalloc
 jitterentropy
-jline
+jline2
 jna
 jomolhari-fonts
 jose
@@ -816,7 +813,6 @@ libavc1394
 libbase
 libblockdev
 libbpf
-libbsd
 libburn
 libbytesize
 libcacard
@@ -915,7 +911,6 @@ liblangtag
 liblayout
 libldac
 libldb
-libldm
 libloader
 liblockfile
 liblognorm
@@ -1125,6 +1120,7 @@ lsof
 lsscsi
 lsvpd
 ltrace
+lttng-ust
 lua
 lua-filesystem
 lua-json
@@ -1271,7 +1267,6 @@ nodejs-packaging
 npth
 nss
 ntfs-3g
-ntfs-3g-system-compression
 ntpstat
 numactl
 numad
@@ -1647,7 +1642,6 @@ pyodbc
 pyparsing
 pyparted
 pyserial
-pytest
 python-PyMySQL
 python-adal
 python-aiodns
@@ -1697,7 +1691,6 @@ python-grpcio-gcp
 python-gssapi
 python-httplib2
 python-idna
-python-iniconfig
 python-iniparse
 python-inotify
 python-into-dbus-python
@@ -1748,17 +1741,14 @@ python-pbr
 python-pexpect
 python-pid
 python-pip
-python-pluggy
 python-ply
 python-podman-api
 python-portalocker
 python-prettytable
 python-productmd
-python-progressbar2
 python-psutil
 python-psycopg2
 python-ptyprocess
-python-py
 python-pyasn1
 python-pycares
 python-pycdlib
@@ -1800,7 +1790,6 @@ python-uritemplate
 python-urllib-gssapi
 python-urllib3
 python-urwid
-python-utils
 python-varlink
 python-vcrpy
 python-wcwidth
@@ -2215,7 +2204,6 @@ yelp-xsl
 zaf
 zchunk
 zenity
-zerofree
 zip
 zlib
 zsh
