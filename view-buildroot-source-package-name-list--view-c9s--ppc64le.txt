@@ -1947,6 +1947,7 @@ python-kmod
 python-lark-parser
 python-ldap
 python-ldap3
+python-lesscpy
 python-lit
 python-lxml
 python-m2r
@@ -2070,6 +2071,7 @@ python-requests-unixsocket
 python-responses
 python-retrying
 python-rfc3986
+python-rjsmin
 python-rpm-generators
 python-rpm-macros
 python-rsa
