@@ -320,7 +320,6 @@ gdb
 gdbm
 gdisk
 gdk-pixbuf2
-gdlmm
 gdm
 gedit
 gegl04
@@ -1773,9 +1772,7 @@ pyatspi
 pybind11
 pycairo
 pyflakes
-pygobject2
 pygobject3
-pygtk2
 pykickstart
 pyparsing
 pyparted
@@ -1829,6 +1826,7 @@ python-cppy
 python-cpuinfo
 python-crypto
 python-cryptography
+python-cryptography-vectors
 python-cssselect
 python-cups
 python-curio
@@ -2025,6 +2023,7 @@ python-pytest-mock
 python-pytest-randomly
 python-pytest-rerunfailures
 python-pytest-runner
+python-pytest-subtests
 python-pytest-timeout
 python-pytest-venv
 python-pytest-xdist
@@ -2059,9 +2058,11 @@ python-ruamel-yaml-clib
 python-s3transfer
 python-scour
 python-selenium
+python-semantic_version
 python-service-identity
 python-setproctitle
 python-setuptools
+python-setuptools-rust
 python-setuptools_scm
 python-setuptools_scm_git_archive
 python-simplejson
@@ -2147,7 +2148,6 @@ python-zope-deprecation
 python-zope-event
 python-zope-interface
 python-zope-testing
-python2-cairo
 python2-setuptools
 python2.7
 python3-docs
