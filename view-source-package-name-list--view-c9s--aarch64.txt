@@ -47,6 +47,7 @@ annobin
 ansible
 ansible-freeipa
 ant
+anthy-unicode
 antlr
 aopalliance
 apache-commons-cli
@@ -647,8 +648,8 @@ hyphen-te
 hyphen-uk
 i2c-tools
 ibus
+ibus-anthy
 ibus-hangul
-ibus-kkc
 ibus-libpinyin
 ibus-libzhuyin
 ibus-m17n
@@ -736,6 +737,7 @@ junit5
 jzlib
 kabi-dw
 kacst-fonts
+kasumi
 kbd
 kdump-anaconda-addon
 kernel
@@ -897,8 +899,6 @@ libjcat
 libjpeg-turbo
 libkcapi
 libkeepalive
-libkkc
-libkkc-data
 libkml
 libksba
 liblangtag
@@ -1138,7 +1138,6 @@ mariadb
 mariadb-connector-c
 mariadb-connector-odbc
 mariadb-java-client
-marisa
 matchbox-window-manager
 maven
 maven-resolver
@@ -1857,7 +1856,6 @@ sil-padauk-fonts
 sil-scheherazade-fonts
 sip
 sisu
-skkdic
 skopeo
 slang
 slapi-nis
