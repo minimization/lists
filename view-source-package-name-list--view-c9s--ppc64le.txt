@@ -387,7 +387,6 @@ gnome-devel-docs
 gnome-disk-utility
 gnome-extensions-app
 gnome-font-viewer
-gnome-getting-started-docs
 gnome-initial-setup
 gnome-keyring
 gnome-logs
