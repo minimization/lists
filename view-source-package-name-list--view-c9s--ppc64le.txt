@@ -669,6 +669,7 @@ initscripts
 inkscape
 insights-client
 iotop
+ipa
 ipcalc
 iperf3
 ipmitool
