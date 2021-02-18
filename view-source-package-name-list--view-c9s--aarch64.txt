@@ -58,6 +58,7 @@ apache-commons-io
 apache-commons-lang3
 apache-commons-logging
 apache-commons-net
+appstream
 appstream-data
 apr
 apr-util

@@ -64,6 +64,7 @@ apache-commons-lang3
 apache-commons-logging
 apache-commons-net
 apiguardian
+appstream
 appstream-data
 apr
 apr-util
