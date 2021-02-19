@@ -1906,6 +1906,8 @@ rasqal
 rdma-core
 readline
 realmd
+realtime-setup
+realtime-tests
 rear
 redhat-bookmarks
 redhat-indexhtml
@@ -1938,8 +1940,6 @@ rpmlint
 rrdtool
 rsync
 rsyslog
-rt-setup
-rt-tests
 rteval
 rteval-loads
 rtkit
