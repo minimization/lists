@@ -2685,6 +2685,7 @@ readline
 realmd
 recode
 redhat-bookmarks
+redhat-indexhtml
 redhat-logos
 redhat-lsb
 redhat-menus
@@ -3006,7 +3007,6 @@ virt-what
 volume_key
 vsftpd
 vte291
-vtk
 vulkan-headers
 vulkan-loader
 w3m

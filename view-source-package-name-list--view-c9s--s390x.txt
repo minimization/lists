@@ -718,7 +718,6 @@ js-d3-flame-graph
 jsch
 json-c
 json-glib
-jsoncpp
 jsoup
 jsr-305
 jss
@@ -873,7 +872,6 @@ libgxps
 libhandy
 libhandy1
 libhangul
-libharu
 libica
 libical
 libidn2
@@ -1273,7 +1271,6 @@ openoffice-lv
 openoffice.org-dict-cs_CZ
 opensc
 openscap
-openslide
 openslp
 opensm
 opensp
@@ -1595,7 +1592,6 @@ psacct
 psmisc
 pt-sans-fonts
 publicsuffix-list
-pugixml
 pulseaudio
 pyOpenSSL
 pyatspi
@@ -2079,7 +2075,6 @@ volume_key
 vorbis-tools
 vsftpd
 vte291
-vtk
 vulkan-headers
 vulkan-loader
 vulkan-tools

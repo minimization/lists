@@ -936,7 +936,6 @@ imlib2
 infinipath-psm
 inih
 inkscape
-intel-mediasdk
 intltool
 ipa
 ipcalc
@@ -1664,7 +1663,6 @@ ocaml-srpm-macros
 ocaml-topkg
 ocaml-xml-light
 ocaml-zarith
-ocl-icd
 ogdi
 ongres-scram
 oniguruma
@@ -1680,8 +1678,6 @@ openjade
 openjpeg2
 openldap
 openmpi
-openni
-openni-primesense
 openoffice.org-dict-cs_CZ
 openpgm
 opensc
@@ -2709,6 +2705,7 @@ readline
 realmd
 recode
 redhat-bookmarks
+redhat-indexhtml
 redhat-logos
 redhat-lsb
 redhat-menus
@@ -2965,7 +2962,6 @@ tidy
 tigervnc
 time
 tinycdb
-tinyxml
 tinyxml2
 tix
 tk
@@ -3035,7 +3031,6 @@ virt-what
 volume_key
 vsftpd
 vte291
-vtk
 vulkan-headers
 vulkan-loader
 w3m
