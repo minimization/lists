@@ -1230,7 +1230,6 @@ libgweather
 libgxps
 libhandy1
 libhangul
-libharu
 libical
 libid3tag
 libidn
@@ -1566,7 +1565,6 @@ mozjs78
 mp
 mpfr
 mpg123
-mpi4py
 mpich
 msv
 mt-st
@@ -1592,7 +1590,6 @@ neon
 net-snmp
 net-tools
 netcdf
-netcdf-cxx
 netpbm
 nettle
 netty
@@ -1670,7 +1667,6 @@ openoffice.org-dict-cs_CZ
 openpgm
 opensc
 openscap
-openslide
 openslp
 opensm
 opensp
@@ -2209,7 +2205,6 @@ psmisc
 pstoedit
 psutils
 publicsuffix-list
-pugixml
 pulseaudio
 py3c
 pyOpenSSL
@@ -2288,7 +2283,6 @@ python-dbusmock
 python-ddt
 python-debtcollector
 python-decorator
-python-dill
 python-distlib
 python-distro
 python-django
