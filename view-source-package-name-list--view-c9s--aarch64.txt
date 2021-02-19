@@ -879,7 +879,6 @@ libguestfs
 libgusb
 libgweather
 libgxps
-libhandy
 libhandy1
 libhangul
 libical
@@ -1093,7 +1092,6 @@ lohit-devanagari-fonts
 lohit-gujarati-fonts
 lohit-gurmukhi-fonts
 lohit-kannada-fonts
-lohit-malayalam-fonts
 lohit-marathi-fonts
 lohit-odia-fonts
 lohit-tamil-fonts
@@ -1584,7 +1582,6 @@ postgres-decoderbufs
 postgresql
 postgresql-jdbc
 postgresql-odbc
-pothana2000-fonts
 potrace
 power-profiles-daemon
 powertop
@@ -1720,7 +1717,6 @@ qpdf
 qperf
 qpid-proton
 qr-code-generator
-qrencode
 qt5
 qt5-doc
 qt5-qt3d
@@ -1803,7 +1799,6 @@ s-nail
 saab-fonts
 sac
 samba
-samyak-fonts
 sane-airscan
 sane-backends
 sanlock
@@ -1829,7 +1824,6 @@ sed
 selinux-policy
 senamirmir-washra-fonts
 sendmail
-serafettin-cartoon-fonts
 setools
 setroubleshoot
 setroubleshoot-plugins
@@ -1858,12 +1852,8 @@ slapi-nis
 slf4j
 slirp4netns
 smartmontools
-smc-anjalioldlipi-fonts
-smc-dyuthi-fonts
 smc-meera-fonts
 smc-rachana-fonts
-smc-raghumalayalamsans-fonts
-smc-suruma-fonts
 smc-tools
 snappy
 softhsm
@@ -2000,7 +1990,6 @@ valgrind
 varnish
 varnish-modules
 velocity
-vemana2000-fonts
 vhostmd
 vim
 virt-manager
