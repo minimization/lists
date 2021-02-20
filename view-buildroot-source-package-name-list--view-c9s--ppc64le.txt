@@ -347,6 +347,7 @@ gdbm
 gdcm
 gdisk
 gdk-pixbuf2
+gdk-pixbuf2-xlib
 gdm
 gedit
 gegl04
