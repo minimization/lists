@@ -520,6 +520,7 @@ google-carlito-fonts
 google-droid-fonts
 google-gson
 google-guice
+google-noto-cjk-fonts
 google-roboto-slab-fonts
 gperf
 gperftools
@@ -812,7 +813,6 @@ libcmis
 libcomps
 libconfig
 libconfuse
-libcxl
 libdaemon
 libdap
 libdatrie
@@ -1069,6 +1069,7 @@ lksctp-tools
 lldb
 lldpad
 llvm
+llvm7.0
 lm_sensors
 lmdb
 lockdev
@@ -1087,6 +1088,7 @@ lua-lunitx
 lua-posix
 lua-rpm-macros
 lua-term
+luajit
 luarocks
 lucene
 luksmeta

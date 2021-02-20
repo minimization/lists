@@ -1007,6 +1007,7 @@ libpinyin
 libpipeline
 libpmemobj-cpp
 libpng
+libpng15
 libpq
 libproxy
 libpsl

@@ -948,6 +948,7 @@ libpfm
 libpinyin
 libpipeline
 libpng
+libpng15
 libpq
 libproxy
 libpsl
