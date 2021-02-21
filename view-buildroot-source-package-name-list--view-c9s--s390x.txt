@@ -75,7 +75,6 @@ argparse-manpage
 args4j
 armadillo
 arpack
-arts
 asciidoc
 asio
 aspell
@@ -477,7 +476,6 @@ gl-manpages
 gl2ps
 glade
 glew
-glib
 glib-networking
 glib2
 glibc
@@ -502,7 +500,6 @@ gnome-settings-daemon
 gnome-shell
 gnulib
 gnupg2
-gnuplot
 gnutls
 go-rpm-macros
 gobject-introspection
@@ -546,7 +543,6 @@ gstreamer1-plugins-bad-free
 gstreamer1-plugins-base
 gstreamer1-plugins-good
 gtest
-gtk+
 gtk-doc
 gtk-vnc
 gtk2
@@ -802,8 +798,6 @@ libcbor
 libcdio
 libcdio-paranoia
 libcdr
-libcerf
-libclc
 libcmis
 libcomps
 libconfig
@@ -928,7 +922,6 @@ libnumbertext
 liboauth
 libodfgen
 libogg
-libomxil-bellagio
 libopenmpt
 liborcus
 libosinfo
@@ -2246,7 +2239,6 @@ qpdf
 qpid-proton
 qr-code-generator
 qrencode
-qt3
 qt5
 qt5-doc
 qt5-qtbase
@@ -2590,7 +2582,6 @@ w3m
 wavpack
 wayland
 wayland-protocols
-wdiff
 web-assets
 webkit2gtk3
 webrtc-audio-processing
@@ -2635,7 +2626,6 @@ xmlstreambuffer
 xmlto
 xmltoman
 xmlunit
-xmms
 xmvn
 xonsh
 xorg-x11-apps

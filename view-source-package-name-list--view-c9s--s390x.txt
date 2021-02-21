@@ -452,8 +452,6 @@ gtksourceview4
 gtkspell3
 guava
 gubbi-fonts
-guile
-guile22
 gutenprint
 gvfs
 gzip
@@ -1234,7 +1232,6 @@ nodejs-nodemon
 nodejs-packaging
 npth
 nss
-ntfs-3g
 ntpstat
 numactl
 numad
