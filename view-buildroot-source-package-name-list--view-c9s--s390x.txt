@@ -36,7 +36,6 @@ amtk
 anaconda
 anaconda-user-help
 annobin
-ansible
 ant
 ant-contrib
 anthy
@@ -488,7 +487,6 @@ glusterfs
 gmp
 gnat-srpm-macros
 gnome-autoar
-gnome-bluetooth
 gnome-common
 gnome-control-center
 gnome-desktop3
@@ -516,10 +514,8 @@ google-carlito-fonts
 google-droid-fonts
 google-gson
 google-guice
-google-noto-cjk-fonts
 google-roboto-slab-fonts
 gperf
-gperftools
 gpgme
 gphoto2
 gpm
@@ -598,7 +594,6 @@ iio-sensor-proxy
 ima-evm-utils
 imaptest
 inih
-inkscape
 intltool
 ipa
 ipcalc
@@ -810,7 +805,6 @@ libdbi
 libdmx
 libdnf
 libdrm
-libdv
 libdvdnav
 libdvdread
 libecap
@@ -1009,7 +1003,6 @@ libutempter
 libuv
 libva
 libvarlink
-libvdpau
 libverto
 libvirt
 libvirt-glib
@@ -1047,7 +1040,6 @@ lksctp-tools
 lldb
 lldpad
 llvm
-llvm7.0
 lm_sensors
 lmdb
 lockdev
@@ -1066,7 +1058,6 @@ lua-lunitx
 lua-posix
 lua-rpm-macros
 lua-term
-luajit
 luarocks
 lucene
 luksmeta
@@ -1217,7 +1208,6 @@ npth
 nss
 nss_wrapper
 numactl
-numad
 numpy
 oath-toolkit
 objectweb-asm
@@ -1825,7 +1815,6 @@ python-asgiref
 python-astroid
 python-async-generator
 python-async-timeout
-python-atomicwrites
 python-attrs
 python-augeas
 python-backcall
@@ -1896,14 +1885,12 @@ python-flaky
 python-flask
 python-flexmock
 python-flit
-python-fluidity-sm
 python-freezegun
 python-fs
 python-funcsigs
 python-genshi
 python-genty
 python-gevent
-python-gitlab
 python-google-api-core
 python-google-auth
 python-googleapis-common-protos
@@ -1917,7 +1904,6 @@ python-hacking
 python-hamcrest
 python-hpack
 python-html5lib
-python-httmock
 python-httpbin
 python-httpcore
 python-httplib2
@@ -1935,7 +1921,6 @@ python-iniconfig
 python-iniparse
 python-inotify
 python-into-dbus-python
-python-invoke
 python-ipykernel
 python-ipython_genutils
 python-iso8601
@@ -1963,7 +1948,6 @@ python-lazy-object-proxy
 python-ldap
 python-ldap3
 python-lesscpy
-python-lexicon
 python-lit
 python-lxml
 python-m2r
@@ -1978,7 +1962,6 @@ python-mimeparse
 python-mistune
 python-mock
 python-monotonic
-python-more-itertools
 python-mox3
 python-msal
 python-msgpack
@@ -1993,7 +1976,6 @@ python-netifaces
 python-nose
 python-nose2
 python-nss
-python-ntlm-auth
 python-numexpr
 python-numpydoc
 python-oauth2client
@@ -2013,13 +1995,10 @@ python-outcome
 python-packaging
 python-pandas
 python-parameterized
-python-paramiko
 python-parso
-python-passlib
 python-paste
 python-paste-deploy
 python-pathspec
-python-pbkdf2
 python-pbr
 python-pexpect
 python-pickleshare
@@ -2053,7 +2032,6 @@ python-pygments
 python-pygments-pytest
 python-pylons-sphinx-themes
 python-pymongo
-python-pynacl
 python-pyperclip
 python-pyquery
 python-pyrad
@@ -2069,16 +2047,13 @@ python-pytest-forked
 python-pytest-httpbin
 python-pytest-mock
 python-pytest-randomly
-python-pytest-relaxed
 python-pytest-rerunfailures
 python-pytest-runner
 python-pytest-subtests
 python-pytest-timeout
 python-pytest-venv
 python-pytest-xdist
-python-pytest4
 python-pyudev
-python-pyvmomi
 python-qrcode
 python-qt5
 python-raven
@@ -2097,7 +2072,6 @@ python-requests-mock
 python-requests-oauthlib
 python-requests-toolbelt
 python-requests-unixsocket
-python-requests_ntlm
 python-responses
 python-retrying
 python-rfc3986
@@ -2109,7 +2083,6 @@ python-rtslib
 python-ruamel-yaml
 python-ruamel-yaml-clib
 python-s3transfer
-python-scour
 python-selenium
 python-semantic_version
 python-service-identity
@@ -2118,7 +2091,6 @@ python-setuptools
 python-setuptools-rust
 python-setuptools_scm
 python-setuptools_scm_git_archive
-python-should_dsl
 python-simplejson
 python-simpleline
 python-six
@@ -2127,13 +2099,11 @@ python-sniffio
 python-snowballstemmer
 python-sortedcontainers
 python-soupsieve
-python-spec
 python-sphinx
 python-sphinx-autodoc-typehints
 python-sphinx-epytext
 python-sphinx-hoverxref
 python-sphinx-issues
-python-sphinx-notfound-page
 python-sphinx-removed-in
 python-sphinx-testing
 python-sphinx-theme-alabaster
@@ -2156,7 +2126,6 @@ python-sqlalchemy
 python-sqlparse
 python-stestr
 python-stevedore
-python-straight-plugin
 python-suds
 python-sure
 python-systemd
@@ -2184,7 +2153,6 @@ python-u-msgpack-python
 python-uamqp
 python-uritemplate
 python-urllib3
-python-vcrpy
 python-venusian
 python-virtualenv
 python-voluptuous
@@ -2196,10 +2164,8 @@ python-webtest
 python-werkzeug
 python-wheel
 python-whoosh
-python-winrm
 python-wrapt
 python-xmlschema
-python-xmltodict
 python-xmp-toolkit
 python-yarl
 python-yubico
@@ -2455,7 +2421,6 @@ spirv-tools
 sqlite
 squashfs-tools
 srt
-sshpass
 sssd
 star
 startup-notification
@@ -2464,7 +2429,6 @@ strace
 string-template-maven-plugin
 stringtemplate
 stringtemplate4
-stunnel
 subscription-manager
 subunit
 subversion
@@ -2622,7 +2586,6 @@ xonsh
 xorg-x11-apps
 xorg-x11-drv-dummy
 xorg-x11-drv-libinput
-xorg-x11-drv-wacom
 xorg-x11-font-utils
 xorg-x11-fonts
 xorg-x11-proto-devel
