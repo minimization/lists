@@ -426,7 +426,6 @@ gnome-screenshot
 gnome-session
 gnome-settings-daemon
 gnome-shell
-gnome-shell-extension-dash-to-dock
 gnome-shell-extensions
 gnome-software
 gnome-system-monitor
@@ -1212,7 +1211,6 @@ mecab
 mecab-ipadic
 memcached
 memkind
-memstrack
 memtest86+
 mesa
 mesa-demos
@@ -1817,6 +1815,7 @@ python-requests-file
 python-requests-ftp
 python-requests-gssapi
 python-requests-oauthlib
+python-rpm-generators
 python-rpm-macros
 python-rsa
 python-rtslib
