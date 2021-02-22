@@ -1200,8 +1200,6 @@ mythes-sk
 mythes-sl
 mythes-sv
 mythes-uk
-nafees-nastaleeq-fonts
-nafees-web-naskh-fonts
 nano
 nautilus
 nauty
@@ -1886,7 +1884,6 @@ seabios
 seahorse
 sed
 selinux-policy
-senamirmir-washra-fonts
 sendmail
 setools
 setroubleshoot
