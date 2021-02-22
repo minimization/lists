@@ -46,7 +46,6 @@ amtk
 anaconda
 anaconda-user-help
 annobin
-ansible
 ansible-freeipa
 ant
 anthy-unicode
@@ -1115,7 +1114,6 @@ libyang
 libzip
 libzmf
 linux-firmware
-linux-system-roles
 linuxconsoletools
 linuxdoc-tools
 linuxptp
@@ -2050,7 +2048,6 @@ squashfs-tools
 squid
 srt
 sscg
-sshpass
 sssd
 star
 startup-notification
