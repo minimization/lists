@@ -770,7 +770,6 @@ julietaula-montserrat-fonts
 junit
 junit5
 jzlib
-kabi-dw
 kacst-fonts
 kasumi
 kbd
