@@ -654,7 +654,6 @@ java_cup
 javacc
 javacc-maven-plugin
 javaewah
-javamail
 javapackages-tools
 javaparser
 javapoet
@@ -2506,7 +2505,6 @@ tomcat-taglibs-standard
 tomcatjss
 totem-pl-parser
 tpm2-abrmd
-tpm2-abrmd-selinux
 tpm2-pkcs11
 tpm2-tools
 tpm2-tss
