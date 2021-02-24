@@ -1,5 +1,6 @@
 
 389-ds-base
+Box2D
 CharLS
 HdrHistogram_c
 Judy
@@ -423,7 +424,6 @@ google-noto-emoji-fonts
 google-noto-fonts
 google-roboto-slab-fonts
 gperf
-gperftools
 gpgme
 gpm
 grafana
@@ -1709,7 +1709,6 @@ qgnomeplatform
 qpdf
 qperf
 qpid-proton
-qr-code-generator
 qt5
 qt5-doc
 qt5-qt3d
@@ -1755,6 +1754,7 @@ redland
 regexp
 rest
 resteasy
+rhel-system-roles
 rhino
 rig
 rng-tools

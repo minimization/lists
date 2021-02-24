@@ -1,5 +1,6 @@
 
 389-ds-base
+Box2D
 CharLS
 HdrHistogram_c
 Judy
@@ -1758,7 +1759,6 @@ qgnomeplatform
 qpdf
 qperf
 qpid-proton
-qr-code-generator
 qt5
 qt5-doc
 qt5-qt3d
@@ -1806,6 +1806,7 @@ resource-agents
 resource-agents-sap
 rest
 resteasy
+rhel-system-roles
 rhino
 rig
 rng-tools

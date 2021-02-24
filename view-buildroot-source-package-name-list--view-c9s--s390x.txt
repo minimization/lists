@@ -1,8 +1,8 @@
 389-ds-base
+Box2D
 CUnit
 CharLS
 Cython
-GConf2
 HdrHistogram
 HdrHistogram_c
 Judy
@@ -88,7 +88,6 @@ atk
 atkmm
 atlas
 attr
-audiofile
 audit
 augeas
 authselect
@@ -283,7 +282,6 @@ exempi
 exiv2
 expat
 expect
-extra-cmake-modules
 fakeroot
 fasterxml-oss-parent
 fdk-aac-free
@@ -496,6 +494,7 @@ gnome-online-accounts
 gnome-session
 gnome-settings-daemon
 gnome-shell
+gnome-themes-extra
 gnulib
 gnupg2
 gnutls
@@ -714,7 +713,6 @@ kernel-tools
 kexec-tools
 keybinder3
 keyutils
-kf5
 kmod
 koji
 krb5
@@ -1337,8 +1335,6 @@ perl-Config-Perl-V
 perl-Convert-ASN1
 perl-Convert-Base64
 perl-Convert-BinHex
-perl-Crypt-CBC
-perl-Crypt-IDEA
 perl-Crypt-OpenSSL-Bignum
 perl-Crypt-OpenSSL-Guess
 perl-Crypt-OpenSSL-RSA
@@ -1731,7 +1727,6 @@ perl-utf8-all
 perl-version
 perltidy
 phodav
-phonon
 php
 php-pear
 physfs
@@ -2193,7 +2188,6 @@ qemu-kvm
 qhull
 qpdf
 qpid-proton
-qr-code-generator
 qrencode
 qt5
 qt5-doc
@@ -2561,6 +2555,7 @@ xdg-dbus-proxy
 xdg-desktop-portal
 xdg-desktop-portal-gtk
 xdg-user-dirs
+xdg-user-dirs-gtk
 xdg-utils
 xerces-c
 xerces-j2
