@@ -2048,6 +2048,7 @@ squid
 srt
 sscg
 sssd
+stalld
 star
 startup-notification
 stix-fonts
