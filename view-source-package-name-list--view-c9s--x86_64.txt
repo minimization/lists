@@ -1390,6 +1390,7 @@ paktype-tehreer-fonts
 pam
 pango
 pangomm
+paper
 papi
 paps
 parted
@@ -1497,6 +1498,7 @@ perl-IO-Socket-IP
 perl-IO-Socket-SSL
 perl-IO-Zlib
 perl-IPC-Cmd
+perl-IPC-Run3
 perl-IPC-SysV
 perl-IPC-System-Simple
 perl-Importer
@@ -1678,6 +1680,7 @@ protobuf-c
 ps_mem
 psacct
 psmisc
+psutils
 pt-sans-fonts
 publicsuffix-list
 pulseaudio
