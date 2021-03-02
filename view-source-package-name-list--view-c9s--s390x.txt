@@ -1628,6 +1628,7 @@ python-dateutil
 python-dbus-client-gen
 python-dbus-python-client-gen
 python-dbus-signature-pyparsing
+python-dbusmock
 python-debtcollector
 python-decorator
 python-distro
