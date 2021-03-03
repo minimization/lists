@@ -2267,7 +2267,6 @@ rubygem-cucumber-expressions
 rubygem-cucumber-tag_expressions
 rubygem-cucumber-wire
 rubygem-curb
-rubygem-daemons
 rubygem-dalli
 rubygem-delorean
 rubygem-diff-lcs
