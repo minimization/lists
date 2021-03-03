@@ -458,6 +458,7 @@ gtksourceview4
 gtkspell3
 guava
 gubbi-fonts
+guile22
 gutenprint
 gvfs
 gzip
