@@ -729,6 +729,7 @@ jakarta-el
 jakarta-interceptors
 jakarta-mail
 jakarta-oro
+jakarta-saaj
 jakarta-server-pages
 jakarta-servlet
 jansi-native
@@ -1637,6 +1638,7 @@ pipewire0.2
 pixman
 pkgconf
 pki-core
+pki-servlet-engine
 plexus-archiver
 plexus-build-api
 plexus-cipher

@@ -699,6 +699,7 @@ jakarta-el
 jakarta-interceptors
 jakarta-mail
 jakarta-oro
+jakarta-saaj
 jansi-native
 jansi1
 jansson
@@ -1579,6 +1580,7 @@ pipewire0.2
 pixman
 pkgconf
 pki-core
+pki-servlet-engine
 plexus-cipher
 plexus-classworlds
 plexus-containers
