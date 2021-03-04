@@ -285,7 +285,6 @@ fence-virt
 festival
 fetchmail
 file
-file-roller
 filesystem
 findutils
 fio
