@@ -714,7 +714,6 @@ jdeparser
 jdepend
 jemalloc
 jitterentropy
-jline2
 jna
 jomolhari-fonts
 jose
@@ -1796,7 +1795,6 @@ rest
 resteasy
 rhel-system-roles
 rhel-system-roles-sap
-rhino
 rig
 rng-tools
 rootfiles

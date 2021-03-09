@@ -684,10 +684,7 @@ jansi-native
 jansi1
 jansson
 jasper
-java-1.8.0-openjdk
 java-11-openjdk
-java-17-openjdk
-java-atk-wrapper
 javapackages-tools
 jaxb
 jaxb-api
@@ -701,7 +698,6 @@ jdeparser
 jdepend
 jemalloc
 jitterentropy
-jline2
 jna
 jomolhari-fonts
 jose
@@ -780,7 +776,6 @@ libXres
 libXt
 libXtst
 libXv
-libXxf86dga
 libXxf86vm
 libabw
 libaec
@@ -1743,7 +1738,6 @@ resource-agents-sap
 rest
 resteasy
 rhel-system-roles
-rhino
 rig
 rng-tools
 rootfiles
@@ -2038,7 +2032,6 @@ xorg-x11-proto-devel
 xorg-x11-server
 xorg-x11-server-Xwayland
 xorg-x11-server-utils
-xorg-x11-utils
 xorg-x11-xauth
 xorg-x11-xbitmaps
 xorg-x11-xinit

@@ -748,7 +748,6 @@ jdepend
 jemalloc
 jetty
 jitterentropy
-jline2
 jmc
 jmc-core
 jna
@@ -1872,7 +1871,6 @@ rest
 resteasy
 rhel-system-roles
 rhel-system-roles-sap
-rhino
 rig
 rng-tools
 rootfiles
