@@ -647,7 +647,6 @@ jasper
 java-1.8.0-openjdk
 java-11-openjdk
 java-atk-wrapper
-java-latest-openjdk
 java_cup
 javacc
 javacc-maven-plugin
