@@ -919,7 +919,6 @@ libnumbertext
 liboauth
 libodfgen
 libogg
-liboggz
 libopenmpt
 libopenraw
 liborcus
