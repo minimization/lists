@@ -1,13 +1,10 @@
 
 389-ds-base
 Box2D
-CharLS
 HdrHistogram
 HdrHistogram_c
 Judy
 LibRaw
-Lmod
-MUMPS
 ModemManager
 NetworkManager
 NetworkManager-libreswan
@@ -71,8 +68,6 @@ apr-util
 aqute-bnd
 argon2
 argparse-manpage
-armadillo
-arpack
 arptables
 asciidoc
 aspell
@@ -145,7 +140,6 @@ cdrkit
 ceph
 ceres-solver
 certmonger
-cfitsio
 chan
 check
 checkpolicy
@@ -160,7 +154,6 @@ cjose
 clang
 cldr-emoji-annotation
 clevis
-cliquer
 cloud-init
 cloud-utils
 clucene
@@ -173,11 +166,6 @@ cockpit-composer
 cockpit-podman
 cockpit-session-recording
 cogl
-coin-or-Cbc
-coin-or-Cgl
-coin-or-Clp
-coin-or-CoinUtils
-coin-or-Osi
 color-filesystem
 colord
 colord-gtk
@@ -344,7 +332,6 @@ freeipmi
 freeradius
 freerdp
 freetype
-freexl
 fribidi
 frr
 ftp
@@ -361,10 +348,8 @@ gcab
 gcc
 gcr
 gd
-gdal
 gdb
 gdbm
-gdcm
 gdisk
 gdk-pixbuf2
 gdm
@@ -375,7 +360,6 @@ genwqe-tools
 geoclue2
 geocode-glib
 geolite2
-geos
 gettext
 gfbgraph
 gflags
@@ -394,7 +378,6 @@ glibc
 glibc32
 glibmm24
 glog
-glpk
 glslang
 glusterfs
 gmp
@@ -490,8 +473,6 @@ hamcrest
 haproxy
 harfbuzz
 hawtjni
-hdf
-hdf5
 hdparm
 help2man
 hexchat
@@ -791,7 +772,6 @@ ladspa
 lame
 langpacks
 langtable
-lapack
 lasso
 latex2html
 latexmk
@@ -832,7 +812,6 @@ libXv
 libXxf86dga
 libXxf86vm
 libabw
-libaec
 libaio
 libao
 libappstream-glib
@@ -863,7 +842,6 @@ libdap
 libdatrie
 libdazzle
 libdb
-libdc1394
 libdmx
 libdnf
 libdrm
@@ -900,7 +878,6 @@ libgcrypt
 libgdata
 libgdl
 libgee
-libgeotiff
 libgexiv2
 libglvnd
 libgnomekbd
@@ -908,7 +885,6 @@ libgovirt
 libgpg-error
 libgphoto2
 libgsf
-libgta
 libgtop2
 libgudev
 libguestfs
@@ -934,7 +910,6 @@ libjcat
 libjpeg-turbo
 libkcapi
 libkeepalive
-libkml
 libksba
 liblangtag
 liblayout
@@ -1022,7 +997,6 @@ libreswan
 librevenge
 librhsm
 librsvg2
-librttopo
 librx
 libsamplerate
 libseccomp
@@ -1041,7 +1015,6 @@ libsmi
 libsndfile
 libsolv
 libsoup
-libspatialite
 libspectre
 libspiro
 libsrtp
@@ -1147,12 +1120,8 @@ lsscsi
 ltrace
 lttng-ust
 lua
-lua-filesystem
-lua-json
-lua-lpeg
 lua-posix
 lua-rpm-macros
-lua-term
 lucene
 luksmeta
 lvm2
@@ -1218,7 +1187,6 @@ mingw-crt
 mingw-filesystem
 mingw-srvany
 minicom
-minizip
 mksh
 mlocate
 mobile-broadband-provider-info
@@ -1239,7 +1207,6 @@ mokutil
 motif
 mozilla-filesystem
 mozjs78
-mp
 mpfr
 mpg123
 mpich
@@ -1283,7 +1250,6 @@ mythes-sv
 mythes-uk
 nano
 nautilus
-nauty
 navilu-fonts
 nbdkit
 ncurses
@@ -1291,7 +1257,6 @@ ndctl
 neon
 net-snmp
 net-tools
-netcdf
 netlabel_tools
 netpbm
 nettle
@@ -1324,7 +1289,6 @@ ocaml-srpm-macros
 oci-seccomp-bpf-hook
 ocl-icd
 oddjob
-ogdi
 omping
 ongres-scram
 oniguruma
@@ -1338,9 +1302,7 @@ openchange
 opencl-filesystem
 opencl-headers
 opencryptoki
-opencv
 opendnssec
-openexr
 openhpi
 openjade
 openjpeg2
@@ -1670,7 +1632,6 @@ pptp
 prefixdevname
 procmail
 procps-ng
-proj
 protobuf
 protobuf-c
 ps_mem
@@ -2087,7 +2048,6 @@ unixODBC
 unzip
 upower
 uresourced
-uriparser
 urlview
 urw-base35-fonts
 usb_modeswitch
@@ -2158,7 +2118,6 @@ xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
 xdp-tools
-xerces-c
 xerces-j2
 xfsdump
 xfsprogs
