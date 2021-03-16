@@ -1614,6 +1614,7 @@ perl-threads
 perl-threads-shared
 perl-version
 pesign
+pg_repack
 pgaudit
 phodav
 php
@@ -2014,7 +2015,6 @@ sysfsutils
 syslinux
 sysstat
 system-config-printer
-system-storage-manager
 systemd
 systemtap
 taglib

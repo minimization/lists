@@ -1547,6 +1547,7 @@ perl-srpm-macros
 perl-threads
 perl-threads-shared
 perl-version
+pg_repack
 pgaudit
 phodav
 php
@@ -1931,7 +1932,6 @@ symlinks
 sysfsutils
 sysstat
 system-config-printer
-system-storage-manager
 systemd
 systemtap
 taglib
