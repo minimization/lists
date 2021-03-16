@@ -1,13 +1,11 @@
 389-ds-base
 Box2D
 CUnit
-CharLS
 Cython
 HdrHistogram
 HdrHistogram_c
 Judy
 LibRaw
-MUMPS
 ModemManager
 NetworkManager
 OpenIPMI
@@ -72,8 +70,6 @@ aqute-bnd
 argon2
 argparse-manpage
 args4j
-armadillo
-arpack
 asciidoc
 asio
 aspell
@@ -142,8 +138,6 @@ cdi-api
 cdparanoia
 cdrkit
 ceph
-ceres-solver
-cfitsio
 cglib
 chan
 check
@@ -158,7 +152,6 @@ cjose
 clang
 classloader-leak-test-framework
 cldr-emoji-annotation
-cliquer
 clucene
 clutter
 clutter-gst3
@@ -167,16 +160,6 @@ cmake
 cmocka
 codehaus-parent
 cogl
-coin-or-Cbc
-coin-or-Cgl
-coin-or-Clp
-coin-or-CoinUtils
-coin-or-Data-Netlib
-coin-or-Data-miplib3
-coin-or-DyLP
-coin-or-Osi
-coin-or-Sample
-coin-or-Vol
 colm
 color-filesystem
 colord
@@ -213,7 +196,6 @@ dbus
 dbus-broker
 dbus-glib
 dbus-python
-dcmtk
 dconf
 decentxml
 dejagnu
@@ -321,7 +303,6 @@ freeipa
 freeipa-healthcheck
 freerdp
 freetype
-freexl
 fribidi
 fstrm
 fuse
@@ -335,10 +316,8 @@ gcab
 gcc
 gcr
 gd
-gdal
 gdb
 gdbm
-gdcm
 gdisk
 gdk-pixbuf2
 gdk-pixbuf2-xlib
@@ -347,7 +326,6 @@ gedit
 gegl04
 geoclue2
 geocode-glib
-geos
 gettext
 gfbgraph
 gflags
@@ -470,7 +448,6 @@ giflib
 git
 gjs
 gl-manpages
-gl2ps
 glade
 glew
 glib-networking
@@ -479,7 +456,6 @@ glibc
 glibmm24
 glm
 glog
-glpk
 glslang
 glusterfs
 gmp
@@ -554,7 +530,6 @@ hamcrest
 hamcrest2
 harfbuzz
 hawtjni
-hdf
 hdf5
 help2man
 hicolor-icon-theme
@@ -790,7 +765,6 @@ libcmis
 libcomps
 libconfig
 libdaemon
-libdap
 libdatrie
 libdazzle
 libdb
@@ -828,7 +802,6 @@ libgcrypt
 libgdata
 libgdl
 libgee
-libgeotiff
 libgexiv2
 libglvnd
 libgnomekbd
@@ -836,7 +809,6 @@ libgovirt
 libgpg-error
 libgphoto2
 libgsf
-libgta
 libgtop2
 libgudev
 libguestfs
@@ -853,14 +825,12 @@ libieee1284
 libijs
 libimagequant
 libinput
-libiodbc
 libiptcdata
 libiscsi
 libisofs
 libjcat
 libjpeg-turbo
 libkcapi
-libkml
 libksba
 liblangtag
 liblayout
@@ -941,8 +911,6 @@ librepository
 librevenge
 librhsm
 librsvg2
-librttopo
-librx
 libsamplerate
 libseccomp
 libsecret
@@ -960,7 +928,6 @@ libsndfile
 libsodium
 libsolv
 libsoup
-libspatialite
 libspectre
 libspiro
 libsrtp
@@ -983,7 +950,6 @@ libtomcrypt
 libtommath
 libtool
 libtpms
-libucil
 libunicap
 libuninameslist
 libunistring
@@ -1044,13 +1010,8 @@ lsof
 lsscsi
 lttng-ust
 lua
-lua-filesystem
-lua-json
-lua-lpeg
-lua-lunitx
 lua-posix
 lua-rpm-macros
-lua-term
 luarocks
 lucene
 luksmeta
@@ -1144,7 +1105,6 @@ mingw-w64-tools
 mingw-win-iconv
 mingw-winpthreads
 mingw-zlib
-minizip
 mlocate
 mm-common
 mobile-broadband-provider-info
@@ -1155,7 +1115,6 @@ mojo-parent
 mongo-c-driver
 motif
 mozjs78
-mp
 mpfr
 mpg123
 mpich
@@ -1170,7 +1129,6 @@ mutter
 mythes
 nasm
 nautilus
-nauty
 nbd
 nbdkit
 ncompress
@@ -1179,7 +1137,6 @@ ndctl
 neon
 net-snmp
 net-tools
-netcdf
 netpbm
 nettle
 netty
@@ -1229,7 +1186,6 @@ ocaml-seq
 ocaml-srpm-macros
 ocaml-xml-light
 ocaml-zarith
-ogdi
 ongres-scram
 oniguruma
 openal-soft
@@ -1237,7 +1193,6 @@ openblas
 openblas-srpm-macros
 openchange
 opencl-headers
-openexr
 openjade
 openjpeg2
 openldap
@@ -1774,7 +1729,6 @@ pycairo
 pyflakes
 pygobject3
 pykickstart
-pylint
 pyparsing
 pyparted
 pyproject-rpm-macros
@@ -1789,7 +1743,6 @@ python-aiohttp-cors
 python-apipkg
 python-appdirs
 python-argcomplete
-python-astroid
 python-async-generator
 python-async-timeout
 python-attrs
@@ -1882,7 +1835,6 @@ python-into-dbus-python
 python-ipykernel
 python-ipython_genutils
 python-iso8601
-python-isort
 python-itsdangerous
 python-jedi
 python-jinja2
@@ -1900,7 +1852,6 @@ python-keystoneauth1
 python-kiwisolver
 python-kmod
 python-lark-parser
-python-lazy-object-proxy
 python-ldap
 python-ldap3
 python-lesscpy
@@ -2283,7 +2234,6 @@ sblim-cmpi-devel
 sblim-indication_helper
 sblim-sfcCommon
 sblim-sfcc
-scalapack
 scdoc
 scipy
 scl-utils
@@ -2367,8 +2317,6 @@ tcsh
 teckit
 telnet
 tepl
-tesseract
-tesseract-tessdata
 testng
 texi2html
 texinfo
@@ -2419,7 +2367,6 @@ univocity-parsers
 unixODBC
 unzip
 upower
-uriparser
 urw-base35-fonts
 usbguard
 usbredir
@@ -2475,7 +2422,6 @@ xdg-desktop-portal-gtk
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
-xerces-c
 xerces-j2
 xfsdump
 xfsprogs
@@ -2495,7 +2441,6 @@ xmlunit
 xmvn
 xonsh
 xorg-x11-apps
-xorg-x11-drv-dummy
 xorg-x11-drv-libinput
 xorg-x11-font-utils
 xorg-x11-fonts
@@ -2523,7 +2468,6 @@ zenity
 zeromq
 zip
 zlib
-zsh
 zstd
 zvbi
 zziplib
