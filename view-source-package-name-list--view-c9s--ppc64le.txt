@@ -1516,7 +1516,7 @@ php
 php-pear
 php-pecl-apcu
 php-pecl-rrd
-php-pecl-xdebug
+php-pecl-xdebug3
 php-pecl-zip
 pigz
 pinentry
