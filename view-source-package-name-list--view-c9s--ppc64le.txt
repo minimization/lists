@@ -176,6 +176,8 @@ corosync-qdevice
 cpio
 cracklib
 crash
+crash-gcore-command
+crash-trace-command
 createrepo_c
 criu
 cronie
@@ -1119,6 +1121,7 @@ mdevctl
 mecab
 mecab-ipadic
 memcached
+memstrack
 mesa
 mesa-demos
 mesa-libGLU
@@ -1891,6 +1894,7 @@ switcheroo-control
 swtpm
 symlinks
 sysfsutils
+sysprof
 sysstat
 system-config-printer
 systemd
