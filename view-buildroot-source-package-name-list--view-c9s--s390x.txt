@@ -105,6 +105,7 @@ batik
 bc
 bcc
 bcel
+bdftopcf
 beakerlib
 beust-jcommander
 bind
@@ -2330,7 +2331,6 @@ tix
 tk
 tmux
 tokyocabinet
-tomcat
 tomcat-taglibs-parent
 tomcat-taglibs-standard
 tomcatjss
