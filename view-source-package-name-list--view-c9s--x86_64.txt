@@ -1142,6 +1142,7 @@ make
 mallard-rng
 man-db
 man-pages
+man-pages-overrides
 mariadb
 mariadb-connector-c
 mariadb-connector-odbc
