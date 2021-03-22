@@ -755,7 +755,6 @@ kbd
 kdump-anaconda-addon
 keepalived
 kernel
-kernel-rt
 kernel-srpm-macros
 kernelshark
 kexec-tools
