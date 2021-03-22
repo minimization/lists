@@ -450,6 +450,7 @@ harfbuzz
 hawtjni
 hdparm
 help2man
+hesiod
 hexchat
 hexedit
 hicolor-icon-theme
