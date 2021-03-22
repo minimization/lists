@@ -1817,6 +1817,7 @@ realmd
 realtime-setup
 realtime-tests
 rear
+redfish-finder
 redhat-bookmarks
 redhat-indexhtml
 redhat-logos

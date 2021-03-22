@@ -1714,6 +1714,7 @@ rasqal
 rdma-core
 readline
 realmd
+redfish-finder
 redhat-bookmarks
 redhat-indexhtml
 redhat-logos
