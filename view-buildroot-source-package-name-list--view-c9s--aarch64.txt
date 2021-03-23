@@ -24,8 +24,6 @@ acl
 acpica-tools
 adobe-mappings-cmap
 adobe-mappings-pdf
-adobe-source-code-pro-fonts
-adobe-source-sans-pro-fonts
 adwaita-icon-theme
 adwaita-qt
 alex
@@ -48,7 +46,6 @@ apache-commons-cli
 apache-commons-codec
 apache-commons-collections
 apache-commons-compress
-apache-commons-daemon
 apache-commons-exec
 apache-commons-io
 apache-commons-jxpath
@@ -78,7 +75,6 @@ assertj-core
 at
 at-spi2-atk
 at-spi2-core
-atf
 atinject
 atk
 atkmm
@@ -230,7 +226,6 @@ dotnet3.1
 double-conversion
 dovecot
 doxygen
-dpkg
 dracut
 drpm
 dtc
@@ -301,13 +296,12 @@ fontconfig
 fontforge
 fonts-rpm-macros
 fonttools
+fonttosfnt
 foomatic
 foomatic-db
 forge-parent
 fpc-srpm-macros
 freeglut
-freeipa
-freeipa-healthcheck
 freerdp
 freetype
 fribidi
@@ -472,7 +466,6 @@ gnome-bluetooth
 gnome-common
 gnome-control-center
 gnome-desktop3
-gnome-doc-utils
 gnome-keyring
 gnome-online-accounts
 gnome-session
@@ -487,7 +480,6 @@ go-rpm-macros
 gobject-introspection
 golang
 golang-github-burntsushi-toml
-golang-github-burntsushi-toml-test
 golang-github-cpuguy83-md2man
 golang-github-urfave-cli
 golang-gopkg-russross-blackfriday-2
@@ -501,7 +493,6 @@ google-guice
 google-noto-cjk-fonts
 google-roboto-slab-fonts
 gperf
-gperftools
 gpgme
 gphoto2
 gpm
@@ -511,6 +502,7 @@ graphviz
 grep
 grilo
 groff
+grpc
 grub2
 grubby
 gsettings-desktop-schemas
@@ -518,7 +510,6 @@ gsl
 gsm
 gsound
 gspell
-gssntlmssp
 gssproxy
 gstreamer1
 gstreamer1-plugins-bad-free
@@ -582,6 +573,7 @@ inih
 inkscape
 intltool
 ipa
+ipa-healthcheck
 ipcalc
 iproute
 ipset
@@ -617,7 +609,6 @@ jakarta-saaj
 jakarta-server-pages
 jakarta-servlet
 jakarta-ws-rs
-jakarta-xml-rpc
 jakarta-xml-ws
 janino
 jansi
@@ -646,15 +637,12 @@ jaxen
 jbig2dec
 jbigkit
 jboss-annotations-1.2-api
-jboss-el-2.2-api
 jboss-jaxrs-2.0-api
-jboss-jsp-2.2-api
 jboss-logging
 jboss-logging-tools
 jboss-logmanager
 jboss-modules
 jboss-parent
-jboss-servlet-3.0-api
 jcip-annotations
 jctools
 jdeparser
@@ -662,7 +650,6 @@ jdepend
 jdependency
 jdom
 jdom2
-jemalloc
 jetty
 jffi
 jflex
@@ -683,7 +670,6 @@ js-jquery
 jsch
 json-c
 json-glib
-jsoncpp
 jsoup
 jsr-305
 jss
@@ -699,11 +685,9 @@ kexec-tools
 keybinder3
 keyutils
 kmod
-koji
 krb5
 kronosnet
 ksh
-kyua
 ladspa
 lame
 langpacks
@@ -718,7 +702,6 @@ ldns
 lensfun
 leptonica
 less
-leveldb
 libEMF
 libICE
 libIDL
@@ -785,7 +768,6 @@ libdaemon
 libdatrie
 libdazzle
 libdb
-libdbi
 libdmx
 libdnf
 libdrm
@@ -876,7 +858,6 @@ libmng
 libmnl
 libmodplug
 libmodulemd
-libmongocrypt
 libmpc
 libmpeg2
 libmspack
@@ -970,15 +951,12 @@ libtheora
 libtiff
 libtimezonemap
 libtirpc
-libtomcrypt
-libtommath
 libtool
 libtpms
 libunicap
 libuninameslist
 libunistring
 libunwind
-liburing
 libusb
 libusbx
 libuser
@@ -1038,10 +1016,8 @@ lttng-ust
 lua
 lua-posix
 lua-rpm-macros
-luarocks
 lucene
 luksmeta
-lutok
 lvm2
 lynx
 lz4
@@ -1108,7 +1084,6 @@ mdds
 mdevctl
 mecab
 memcached
-mercurial
 mesa
 mesa-demos
 mesa-libGLU
@@ -1131,6 +1106,7 @@ mingw-w64-tools
 mingw-win-iconv
 mingw-winpthreads
 mingw-zlib
+mkfontscale
 mlocate
 mm-common
 mobile-broadband-provider-info
@@ -1138,7 +1114,6 @@ mockito
 modello
 mojo-executor
 mojo-parent
-mongo-c-driver
 motif
 mozjs78
 mpfr
@@ -1155,7 +1130,6 @@ mutter
 mythes
 nasm
 nautilus
-nbd
 nbdkit
 ncompress
 ncurses
@@ -1190,8 +1164,15 @@ objectweb-asm
 objectweb-pom
 objenesis
 ocaml
+ocaml-alcotest
+ocaml-astring
+ocaml-base
+ocaml-bisect-ppx
 ocaml-calendar
 ocaml-camomile
+ocaml-cinaps
+ocaml-cmdliner
+ocaml-compiler-libs-janestreet
 ocaml-cppo
 ocaml-csexp
 ocaml-csv
@@ -1200,17 +1181,35 @@ ocaml-dune
 ocaml-extlib
 ocaml-fileutils
 ocaml-findlib
+ocaml-fmt
+ocaml-fpath
 ocaml-gettext
 ocaml-labltk
 ocaml-libvirt
 ocaml-lwt
+ocaml-markup
+ocaml-migrate-parsetree
 ocaml-mmap
+ocaml-num
 ocaml-ocamlbuild
 ocaml-ocplib-endian
+ocaml-odoc
 ocaml-ounit
+ocaml-parsexp
+ocaml-ppx-derivers
+ocaml-ppxlib
+ocaml-re
+ocaml-react
 ocaml-result
 ocaml-seq
+ocaml-sexplib
+ocaml-sexplib0
 ocaml-srpm-macros
+ocaml-stdio
+ocaml-topkg
+ocaml-tyxml
+ocaml-uuidm
+ocaml-uutf
 ocaml-xml-light
 ocaml-zarith
 ongres-scram
@@ -1236,7 +1235,6 @@ openssl
 opentest4j
 openwsman
 opus
-orangefs
 orc
 os-maven-plugin
 os-prober
@@ -1506,9 +1504,7 @@ perl-Net-DNS-Resolver-Mock
 perl-Net-DNS-Resolver-Programmable
 perl-Net-DNS-SEC
 perl-Net-HTTP
-perl-Net-IDN-Encode
 perl-Net-LDAP-Server
-perl-Net-LibIDN
 perl-Net-LibIDN2
 perl-Net-Ping
 perl-Net-SMTP-SSL
@@ -1558,7 +1554,6 @@ perl-Set-Infinite
 perl-Socket
 perl-Socket6
 perl-Software-License
-perl-Sort-Versions
 perl-Specio
 perl-Spellunker
 perl-Storable
@@ -1743,7 +1738,6 @@ ppp
 pps-tools
 procmail
 procps-ng
-proj
 protobuf
 protobuf-c
 psmisc
@@ -1784,6 +1778,7 @@ python-black
 python-blinker
 python-blivet
 python-breathe
+python-cachetools
 python-certifi
 python-cffi
 python-chardet
@@ -1798,9 +1793,7 @@ python-coverage
 python-cpio
 python-cppy
 python-cpuinfo
-python-crypto
 python-cryptography
-python-cryptography-vectors
 python-cups
 python-curio
 python-cycler
@@ -1818,7 +1811,6 @@ python-dns
 python-docopt
 python-docutils
 python-dulwich
-python-elementpath
 python-enchant
 python-ethtool
 python-eventlet
@@ -1826,6 +1818,7 @@ python-execnet
 python-extras
 python-factory-boy
 python-faker
+python-fasteners
 python-fastjsonschema
 python-fields
 python-filelock
@@ -1833,13 +1826,14 @@ python-fixtures
 python-flake8
 python-flaky
 python-flask
-python-flexmock
 python-flit
 python-freezegun
 python-fs
 python-funcsigs
 python-genshi
 python-genty
+python-google-auth
+python-googleapis-common-protos
 python-graphviz
 python-greenlet
 python-gssapi
@@ -1848,7 +1842,6 @@ python-hacking
 python-hamcrest
 python-hpack
 python-html5lib
-python-httpbin
 python-httplib2
 python-httpretty
 python-hyperframe
@@ -1856,7 +1849,6 @@ python-hyperlink
 python-hypothesis
 python-idna
 python-imagesize
-python-impacket
 python-incremental
 python-iniconfig
 python-iniparse
@@ -1868,6 +1860,7 @@ python-iso8601
 python-itsdangerous
 python-jedi
 python-jinja2
+python-jmespath
 python-jsonpatch
 python-jsonpointer
 python-jsonschema
@@ -1883,7 +1876,6 @@ python-kiwisolver
 python-kmod
 python-lark-parser
 python-ldap
-python-ldap3
 python-lesscpy
 python-lit
 python-lxml
@@ -1911,6 +1903,7 @@ python-nose2
 python-nss
 python-numexpr
 python-numpydoc
+python-oauth2client
 python-oauthlib
 python-olefile
 python-openstackdocstheme
@@ -1949,14 +1942,10 @@ python-py
 python-pyasn1
 python-pycodestyle
 python-pycparser
-python-pycryptodomex
 python-pycurl
-python-pydbus
 python-pygments
-python-pygments-pytest
 python-pymongo
 python-pyperclip
-python-pyrad
 python-pyrsistent
 python-pysocks
 python-pytest-aiohttp
@@ -1965,19 +1954,16 @@ python-pytest-cov
 python-pytest-expect
 python-pytest-flake8
 python-pytest-forked
-python-pytest-httpbin
 python-pytest-mock
 python-pytest-randomly
 python-pytest-rerunfailures
 python-pytest-runner
 python-pytest-subtests
 python-pytest-timeout
-python-pytest-venv
 python-pytest-xdist
 python-pyudev
 python-qrcode
 python-qt5
-python-raven
 python-readthedocs-sphinx-ext
 python-recommonmark
 python-redis
@@ -1986,7 +1972,6 @@ python-requests
 python-requests-download
 python-requests-file
 python-requests-ftp
-python-requests-gssapi
 python-requests-kerberos
 python-requests-mock
 python-requests-toolbelt
@@ -1996,6 +1981,7 @@ python-rfc3986
 python-rjsmin
 python-rpm-generators
 python-rpm-macros
+python-rsa
 python-rtslib
 python-ruamel-yaml
 python-ruamel-yaml-clib
@@ -2049,7 +2035,6 @@ python-testrepository
 python-testscenarios
 python-testtools
 python-text-unidecode
-python-tidy
 python-toml
 python-tornado
 python-tox
@@ -2059,8 +2044,10 @@ python-traitlets
 python-trio
 python-trustme
 python-twisted
+python-typeshed
 python-typing-extensions
 python-u-msgpack-python
+python-uritemplate
 python-urllib3
 python-virtualenv
 python-voluptuous
@@ -2069,9 +2056,7 @@ python-wcwidth
 python-webencodings
 python-werkzeug
 python-wheel
-python-whoosh
 python-wrapt
-python-xmlschema
 python-xmp-toolkit
 python-yarl
 python-yubico
@@ -2083,6 +2068,7 @@ python2-setuptools
 python2.7
 python3-docs
 python3-mallard-ducktype
+python3-mypy
 python3-pytest-asyncio
 python3-typed_ast
 python3.9
@@ -2095,7 +2081,6 @@ qdox
 qemu-kvm
 qhull
 qpdf
-qpid-proton
 qrencode
 qt5
 qt5-doc
@@ -2160,7 +2145,6 @@ rubygem-asciidoctor
 rubygem-backports
 rubygem-bcrypt
 rubygem-builder
-rubygem-bundler
 rubygem-childprocess
 rubygem-chronic
 rubygem-coderay
@@ -2281,7 +2265,6 @@ sg3_utils
 sgml-common
 shaderc
 shadow-utils
-shapelib
 shared-mime-info
 sharutils
 shim-unsigned-aarch64
@@ -2364,8 +2347,6 @@ tix
 tk
 tmux
 tokyocabinet
-tomcat-taglibs-parent
-tomcat-taglibs-standard
 tomcatjss
 totem-pl-parser
 tpm2-abrmd
@@ -2442,7 +2423,6 @@ wordnet
 words
 wpa_supplicant
 wpebackend-fdo
-wsdl4j
 xalan-j2
 xapian-core
 xbean
