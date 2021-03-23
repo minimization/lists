@@ -49,7 +49,6 @@ aopalliance
 apache-commons-cli
 apache-commons-codec
 apache-commons-collections
-apache-commons-daemon
 apache-commons-io
 apache-commons-lang3
 apache-commons-logging
@@ -239,7 +238,6 @@ dwarves
 dwz
 e2fsprogs
 ebtables
-ecj
 ed
 efi-rpm-macros
 eigen3
@@ -633,6 +631,7 @@ inkscape
 insights-client
 iotop
 ipa
+ipa-healthcheck
 ipcalc
 iperf3
 ipmitool
@@ -679,7 +678,6 @@ jboss-logging
 jboss-logging-tools
 jdeparser
 jdepend
-jemalloc
 jitterentropy
 jna
 jomolhari-fonts
@@ -1051,7 +1049,6 @@ lshw
 lsof
 lsscsi
 ltrace
-lttng-ust
 lua
 lua-posix
 lua-rpm-macros
@@ -1229,7 +1226,6 @@ openssl-pkcs11
 opentest4j
 openwsman
 opus
-orangefs
 orc
 orca
 osbuild
@@ -1535,7 +1531,6 @@ psutils
 pt-sans-fonts
 publicsuffix-list
 pulseaudio
-pyOpenSSL
 pyatspi
 pycairo
 pygobject3
@@ -1613,7 +1608,6 @@ python-pyasn1
 python-pycdlib
 python-pycparser
 python-pycurl
-python-pydbus
 python-pyrsistent
 python-pysocks
 python-pyudev
@@ -1644,7 +1638,6 @@ python-varlink
 python-wcwidth
 python-wheel
 python-yubico
-python2.7
 python3.9
 pytz
 pyusb
@@ -1655,7 +1648,6 @@ qemu-kvm
 qgnomeplatform
 qpdf
 qperf
-qpid-proton
 qt5
 qt5-doc
 qt5-qt3d
@@ -1693,7 +1685,6 @@ redhat-bookmarks
 redhat-indexhtml
 redhat-logos
 redhat-lsb
-redhat-menus
 redhat-release
 redhat-rpm-config
 redis
@@ -1776,7 +1767,6 @@ sgabios
 sgml-common
 sgpio
 shadow-utils
-shapelib
 shared-mime-info
 sid
 sil-abyssinica-fonts
@@ -1827,7 +1817,6 @@ strace
 stratis-cli
 stratisd
 subscription-manager
-subunit
 subversion
 sudo
 suitesparse
@@ -1865,14 +1854,12 @@ thunderbird
 tigervnc
 time
 tinycdb
-tix
 tk
 tlog
 tmpwatch
 tmux
 tog-pegasus
 tokyocabinet
-tomcat
 tomcatjss
 toolbox
 totem
