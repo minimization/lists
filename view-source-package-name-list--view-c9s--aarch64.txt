@@ -129,7 +129,6 @@ ceph
 ceres-solver
 certmonger
 chan
-check
 checkpolicy
 cheese
 chkconfig
@@ -1825,8 +1824,6 @@ speex
 speexdsp
 spice
 spice-gtk
-spice-protocol
-spice-vdagent
 spirv-headers
 spirv-tools
 splix
