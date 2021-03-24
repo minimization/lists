@@ -77,7 +77,6 @@ authselect
 autoconf
 autoconf-archive
 autofs
-autogen
 automake
 avahi
 babel
@@ -838,7 +837,6 @@ libical
 libidn2
 libieee1284
 libijs
-libimagequant
 libinput
 libiptcdata
 libiscsi
@@ -918,7 +916,6 @@ libqb
 libqmi
 libqxp
 librabbitmq
-libraqm
 librdkafka
 librelp
 libreoffice

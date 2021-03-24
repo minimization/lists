@@ -77,7 +77,6 @@ authselect
 autoconf
 autoconf-archive
 autofs
-autogen
 automake
 avahi
 babel
@@ -860,7 +859,6 @@ libidn2
 libiec61883
 libieee1284
 libijs
-libimagequant
 libinput
 libiptcdata
 libiscsi
@@ -943,7 +941,6 @@ libqb
 libqmi
 libqxp
 librabbitmq
-libraqm
 libraw1394
 librdkafka
 librelp
@@ -1598,20 +1595,17 @@ python-dbus-client-gen
 python-dbus-python-client-gen
 python-dbus-signature-pyparsing
 python-dbusmock
-python-debtcollector
 python-decorator
 python-distro
 python-dmidecode
 python-dns
 python-enchant
 python-ethtool
-python-funcsigs
 python-gssapi
 python-idna
 python-iniparse
 python-inotify
 python-into-dbus-python
-python-iso8601
 python-jinja2
 python-jmespath
 python-jsonpatch
@@ -1621,7 +1615,6 @@ python-justbases
 python-justbytes
 python-jwcrypto
 python-kdcproxy
-python-keystoneauth1
 python-kmod
 python-ldap
 python-linux-procfs
@@ -1630,17 +1623,11 @@ python-lxml
 python-mako
 python-markupsafe
 python-meh
-python-msgpack
 python-netaddr
 python-netifaces
 python-networkx
-python-novaclient
 python-nss
 python-oauthlib
-python-os-service-types
-python-oslo-i18n
-python-oslo-serialization
-python-oslo-utils
 python-packaging
 python-pbr
 python-pexpect
@@ -1677,7 +1664,6 @@ python-setuptools
 python-simpleline
 python-six
 python-slip
-python-stevedore
 python-suds
 python-systemd
 python-toml
@@ -1687,7 +1673,6 @@ python-urwid
 python-varlink
 python-wcwidth
 python-wheel
-python-wrapt
 python-yubico
 python3.9
 pytz
