@@ -159,7 +159,6 @@ compat-libgfortran-48
 compat-locales-sap
 compat-readline5
 conmon
-connections
 conntrack-tools
 console-setup
 container-selinux

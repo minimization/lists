@@ -172,7 +172,6 @@ compat-locales-sap
 compat-readline5
 compiler-rt
 conmon
-connections
 conntrack-tools
 console-setup
 container-selinux
