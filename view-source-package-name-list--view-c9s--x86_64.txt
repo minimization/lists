@@ -387,6 +387,7 @@ gnome-calculator
 gnome-characters
 gnome-color-manager
 gnome-common
+gnome-connections
 gnome-control-center
 gnome-desktop3
 gnome-devel-docs

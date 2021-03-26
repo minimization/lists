@@ -996,6 +996,7 @@ lua
 lua-posix
 lua-rpm-macros
 lucene
+luit
 luksmeta
 lvm2
 lynx
@@ -1898,6 +1899,7 @@ python-ptyprocess
 python-py
 python-pyasn1
 python-pycodestyle
+python-pycotap
 python-pycparser
 python-pycurl
 python-pygments
@@ -2401,7 +2403,6 @@ xmltoman
 xmlunit
 xmvn
 xonsh
-xorg-x11-apps
 xorg-x11-drv-libinput
 xorg-x11-font-utils
 xorg-x11-fonts
