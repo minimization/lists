@@ -1819,7 +1819,6 @@ swig
 switcheroo-control
 swtpm
 symlinks
-sysfsutils
 sysprof
 sysstat
 system-config-printer
