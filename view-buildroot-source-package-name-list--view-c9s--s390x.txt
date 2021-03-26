@@ -2267,7 +2267,6 @@ swig
 switcheroo-control
 swtpm
 symlinks
-sysfsutils
 sysprof
 systemd
 systemtap
