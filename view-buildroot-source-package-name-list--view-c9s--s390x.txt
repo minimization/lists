@@ -296,7 +296,6 @@ foomatic-db
 forge-parent
 fpc-srpm-macros
 freeglut
-freeipa
 freerdp
 freetype
 fribidi
@@ -669,9 +668,7 @@ jython
 jzlib
 kbd
 kernel
-kernel-headers
 kernel-srpm-macros
-kernel-tools
 kexec-tools
 keybinder3
 keyutils
@@ -2026,7 +2023,6 @@ pywbem
 pyxattr
 pyxdg
 qdox
-qemu
 qemu-kvm
 qhull
 qpdf
@@ -2128,7 +2124,6 @@ rubygem-http_parser.rb
 rubygem-httpclient
 rubygem-i18n
 rubygem-introspection
-rubygem-json
 rubygem-kramdown
 rubygem-kramdown-parser-gfm
 rubygem-listen
@@ -2136,7 +2131,6 @@ rubygem-maruku
 rubygem-memcache-client
 rubygem-metaclass
 rubygem-method_source
-rubygem-minitest
 rubygem-minitest-reporters
 rubygem-mocha
 rubygem-multi_json
@@ -2148,7 +2142,6 @@ rubygem-net-http-persistent
 rubygem-nio4r
 rubygem-nokogiri
 rubygem-open4
-rubygem-power_assert
 rubygem-pry
 rubygem-public_suffix
 rubygem-puma
@@ -2156,7 +2149,6 @@ rubygem-racc
 rubygem-rack
 rubygem-rack-protection
 rubygem-rack-test
-rubygem-rake
 rubygem-rb-inotify
 rubygem-redis
 rubygem-ronn-ng
@@ -2175,7 +2167,6 @@ rubygem-shindo
 rubygem-sinatra
 rubygem-sqlite3
 rubygem-stringex
-rubygem-test-unit
 rubygem-test_declarative
 rubygem-thor
 rubygem-thread_order
@@ -2186,7 +2177,6 @@ rubygem-tzinfo
 rubygem-webmock
 rubygem-webrick
 rubygem-zeitwerk
-rubygems
 rust
 rust-packaging
 rust-srpm-macros
@@ -2288,7 +2278,6 @@ testng
 texi2html
 texinfo
 texlive
-texlive-base
 tidy
 tigervnc
 time
