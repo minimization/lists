@@ -1844,6 +1844,7 @@ python-freezegun
 python-fs
 python-genshi
 python-genty
+python-gevent
 python-google-auth
 python-googleapis-common-protos
 python-graphviz
