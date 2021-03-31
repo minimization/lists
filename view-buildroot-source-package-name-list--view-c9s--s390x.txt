@@ -525,6 +525,7 @@ harfbuzz
 hawtjni
 hdf5
 help2man
+hexedit
 hicolor-icon-theme
 hidapi
 highlight
@@ -1536,7 +1537,6 @@ perl-Sub-Quote
 perl-Sub-Uplevel
 perl-Switch
 perl-Sys-Syslog
-perl-Sys-Virt
 perl-Taint-Runtime
 perl-Task-Weaken
 perl-Term-ANSIColor
