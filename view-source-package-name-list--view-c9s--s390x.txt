@@ -1867,8 +1867,6 @@ tracer
 traceroute
 tracker
 tracker-miners
-tracker3
-tracker3-miners
 tree
 trousers
 tss2
