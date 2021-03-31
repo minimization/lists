@@ -707,7 +707,6 @@ libICE
 libIDL
 libSM
 libX11
-libXNVCtrl
 libXScrnSaver
 libXau
 libXaw
@@ -915,6 +914,7 @@ librepository
 librevenge
 librhsm
 librsvg2
+librtas
 libsamplerate
 libseccomp
 libsecret
@@ -1022,7 +1022,6 @@ luksmeta
 lvm2
 lynx
 lz4
-lzip
 lzo
 lzop
 m17n-db
@@ -1149,7 +1148,6 @@ nghttp2
 nginx
 nim-srpm-macros
 ninja-build
-nkf
 nmap
 nodejs
 nodejs-packaging
@@ -1248,7 +1246,6 @@ ostree
 overpass-fonts
 owasp-java-encoder
 p11-kit
-p7zip
 pacemaker
 pam
 pam_wrapper
@@ -1333,11 +1330,8 @@ perl-DateTime
 perl-DateTime-Event-ICal
 perl-DateTime-Event-Recurrence
 perl-DateTime-Format-Builder
-perl-DateTime-Format-HTTP
-perl-DateTime-Format-IBeat
 perl-DateTime-Format-ICal
 perl-DateTime-Format-ISO8601
-perl-DateTime-Format-Mail
 perl-DateTime-Format-Strptime
 perl-DateTime-Locale
 perl-DateTime-Set
@@ -1348,7 +1342,6 @@ perl-Devel-CallChecker
 perl-Devel-Caller
 perl-Devel-CheckBin
 perl-Devel-CheckLib
-perl-Devel-Cycle
 perl-Devel-GlobalDestruction
 perl-Devel-Hide
 perl-Devel-LexAlias
@@ -1593,7 +1586,6 @@ perl-Test-InDistDir
 perl-Test-Inter
 perl-Test-LeakTrace
 perl-Test-LongString
-perl-Test-Memory-Cycle
 perl-Test-Needs
 perl-Test-NoWarnings
 perl-Test-Output
@@ -1754,6 +1746,7 @@ pycairo
 pyflakes
 pygobject3
 pykickstart
+pylint
 pyparsing
 pyparted
 pyproject-rpm-macros
@@ -1768,6 +1761,7 @@ python-aiohttp-cors
 python-apipkg
 python-appdirs
 python-argcomplete
+python-astroid
 python-async-generator
 python-async-timeout
 python-attrs
@@ -1852,6 +1846,7 @@ python-into-dbus-python
 python-ipykernel
 python-ipython_genutils
 python-iso8601
+python-isort
 python-itsdangerous
 python-jedi
 python-jinja2
@@ -1868,6 +1863,7 @@ python-kdcproxy
 python-kiwisolver
 python-kmod
 python-lark-parser
+python-lazy-object-proxy
 python-ldap
 python-lesscpy
 python-lit
@@ -2031,6 +2027,7 @@ python-wcwidth
 python-webencodings
 python-werkzeug
 python-wheel
+python-wrapt
 python-xmp-toolkit
 python-yarl
 python-yubico
@@ -2377,7 +2374,6 @@ vsftpd
 vte291
 vulkan-headers
 vulkan-loader
-w3m
 wavpack
 wayland
 wayland-protocols
