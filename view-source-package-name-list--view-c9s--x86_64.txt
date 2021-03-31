@@ -468,6 +468,7 @@ gtksourceview4
 gtkspell3
 guava
 gubbi-fonts
+guestfs-tools
 gutenprint
 gvfs
 gzip
@@ -1721,12 +1722,10 @@ python-nss
 python-oauth2client
 python-oauthlib
 python-packaging
-python-pbr
 python-pexpect
 python-pid
 python-pip
 python-ply
-python-podman-api
 python-prettytable
 python-productmd
 python-psutil
@@ -1771,7 +1770,6 @@ python-urwid
 python-varlink
 python-wcwidth
 python-werkzeug
-python-wheel
 python-yubico
 python-zope-event
 python-zope-interface
