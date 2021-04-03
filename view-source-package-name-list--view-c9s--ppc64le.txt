@@ -642,7 +642,6 @@ initscripts
 inkscape
 insights-client
 iotop
-ipa
 ipa-healthcheck
 ipcalc
 iperf3
