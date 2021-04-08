@@ -8,7 +8,6 @@ Judy
 LibRaw
 ModemManager
 NetworkManager
-OpenIPMI
 PEGTL
 PackageKit
 PyYAML
@@ -143,7 +142,6 @@ chkconfig
 chrony
 chrpath
 cifs-utils
-cim-schema
 cjose
 clang
 classloader-leak-test-framework
@@ -456,7 +454,6 @@ glib2
 glibc
 glibmm24
 glm
-glog
 glslang
 glusterfs
 gmp
@@ -701,7 +698,6 @@ lcms2
 ldapjdk
 ldns
 lensfun
-leptonica
 less
 libEMF
 libICE
@@ -904,7 +900,6 @@ libpwquality
 libqb
 libqmi
 libqxp
-librabbitmq
 libraqm
 libraw1394
 librdkafka
@@ -954,7 +949,6 @@ libtimezonemap
 libtirpc
 libtool
 libtpms
-libunicap
 libuninameslist
 libunistring
 libunwind
@@ -1781,7 +1775,6 @@ python-click
 python-colorama
 python-configobj
 python-constantly
-python-cov-core
 python-coverage
 python-cpio
 python-cppy
@@ -1886,7 +1879,6 @@ python-nbformat
 python-netaddr
 python-netifaces
 python-nose
-python-nose2
 python-nss
 python-numexpr
 python-numpydoc
@@ -1897,7 +1889,6 @@ python-openstackdocstheme
 python-outcome
 python-packaging
 python-pandas
-python-parameterized
 python-parso
 python-pathspec
 python-pbr
@@ -2215,9 +2206,6 @@ sanlock
 sat4j
 satyr
 sbc
-sblim-cmpi-devel
-sblim-indication_helper
-sblim-sfcCommon
 sblim-sfcc
 scdoc
 scipy
@@ -2322,7 +2310,6 @@ tpm2-abrmd
 tpm2-pkcs11
 tpm2-tools
 tpm2-tss
-trace-cmd
 tracker
 tracker3
 tracker3-miners
