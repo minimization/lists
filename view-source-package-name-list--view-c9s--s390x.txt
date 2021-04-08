@@ -1845,6 +1845,7 @@ vala
 valgrind
 varnish
 varnish-modules
+vdo
 velocity
 vhostmd
 vim
