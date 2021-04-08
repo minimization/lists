@@ -15,7 +15,6 @@ PyYAML
 SDL
 SDL2
 SLOF
-SuperLU
 WALinuxAgent
 Xaw3d
 a52dec
@@ -136,7 +135,6 @@ cdparanoia
 cdrdao
 cdrkit
 ceph
-ceres-solver
 certmonger
 chan
 checkpolicy
@@ -146,7 +144,6 @@ chrome-gnome-shell
 chrony
 chrpath
 cifs-utils
-cim-schema
 cjose
 clang
 cldr-emoji-annotation
@@ -172,7 +169,6 @@ compat-readline5
 compiler-rt
 conmon
 conntrack-tools
-console-setup
 container-selinux
 containernetworking-plugins
 convmv
@@ -203,14 +199,12 @@ cyrus-imapd
 cyrus-sasl
 cyrus-timezones
 dain-snappy
-dblatex
 dbus
 dbus-broker
 dbus-glib
 dbus-python
 dconf
 dconf-editor
-dcraw
 ddiskit
 decentxml
 dejagnu
@@ -222,7 +216,6 @@ device-mapper-multipath
 device-mapper-persistent-data
 dhcp
 dialog
-diffstat
 diffutils
 ding-libs
 dlm
@@ -235,8 +228,6 @@ docbook-style-dsssl
 docbook-style-xsl
 docbook-utils
 docbook5-schemas
-docbook5-style-xsl
-dos2unix
 dosfstools
 dotconf
 dotnet3.1
@@ -266,7 +257,6 @@ edk2
 efi-rpm-macros
 efibootmgr
 efivar
-eigen3
 elfutils
 emacs
 emacs-auctex
@@ -326,7 +316,6 @@ fprintd
 freeglut
 freeipa
 freeipa-healthcheck
-freeipmi
 freeradius
 freerdp
 freetype
@@ -354,13 +343,11 @@ gdm
 gedit
 gedit-plugins
 gegl04
-genwqe-tools
 geoclue2
 geocode-glib
 geolite2
 gettext
 gfbgraph
-gflags
 gfs2-utils
 ghc-srpm-macros
 ghostscript
@@ -375,7 +362,6 @@ glib2
 glibc
 glibc32
 glibmm24
-glog
 glslang
 glusterfs
 gmp
@@ -675,14 +661,12 @@ initial-setup
 initscripts
 inkscape
 insights-client
-iotop
 ipa
 ipa-healthcheck
 ipcalc
 iperf3
 ipmitool
 iproute
-iprutils
 ipset
 iptables
 iptraf-ng
@@ -758,7 +742,6 @@ keepalived
 kernel
 kernel-rt
 kernel-srpm-macros
-kernelshark
 kexec-tools
 keybinder3
 keycloak-httpd-client-install
@@ -777,14 +760,11 @@ langpacks
 langtable
 lasso
 latex2html
-latexmk
 lato-fonts
 lcms2
 ldapjdk
 ldns
 ledmon
-lensfun
-leptonica
 less
 lftp
 libICE
@@ -842,7 +822,6 @@ libcmis
 libcomps
 libconfig
 libdaemon
-libdap
 libdatrie
 libdazzle
 libdb
@@ -1018,7 +997,6 @@ libsndfile
 libsolv
 libsoup
 libspectre
-libspiro
 libsrtp
 libssh
 libstaroffice
@@ -1037,8 +1015,6 @@ libtimezonemap
 libtirpc
 libtool
 libtpms
-libucil
-libunicap
 libunistring
 libunwind
 liburing
@@ -1047,7 +1023,6 @@ libusbx
 libuser
 libutempter
 libuv
-libva
 libvarlink
 libvdpau
 libverto
@@ -1078,13 +1053,11 @@ libxml2
 libxmlb
 libxshmfence
 libxslt
-libyami
 libyaml
 libyang
 libzip
 libzmf
 linux-firmware
-linuxconsoletools
 linuxdoc-tools
 linuxptp
 lklug-fonts
@@ -1183,7 +1156,6 @@ mesa-demos
 mesa-libGLU
 mesa-libGLw
 metacity
-metis
 microcode_ctl
 microdnf
 micropipenv
@@ -1191,7 +1163,6 @@ mingw-crt
 mingw-filesystem
 mingw-srvany
 minicom
-mksh
 mlocate
 mobile-broadband-provider-info
 mod_auth_gssapi
@@ -1206,7 +1177,6 @@ mod_md
 mod_security
 mod_security_crs
 mod_wsgi
-modulemd-tools
 mokutil
 motif
 mozilla-filesystem
@@ -1222,7 +1192,6 @@ mt-st
 mtdev
 mtools
 mtr
-mtx
 munge
 mutt
 mutter
@@ -1307,7 +1276,6 @@ opencl-filesystem
 opencl-headers
 opencryptoki
 opendnssec
-openhpi
 openjade
 openjpeg2
 openldap
@@ -1353,10 +1321,8 @@ paper
 papi
 paps
 parted
-passivetex
 passwd
 patch
-patchutils
 pavucontrol
 pbzip2
 pcaudiolib
@@ -1406,7 +1372,6 @@ perl-Data-Dump
 perl-Data-Dumper
 perl-Data-OptList
 perl-Data-Section
-perl-Data-UUID
 perl-Date-Calc
 perl-Date-Manip
 perl-Devel-PPPort
@@ -1472,7 +1437,6 @@ perl-MRO-Compat
 perl-Mail-AuthenticationResults
 perl-Mail-DKIM
 perl-Mail-SPF
-perl-Mail-Sender
 perl-MailTools
 perl-Math-BigInt
 perl-Math-BigInt-FastCalc
@@ -1543,6 +1507,7 @@ perl-Tie-RefHash
 perl-Time-HiRes
 perl-Time-Local
 perl-TimeDate
+perl-Tk
 perl-Try-Tiny
 perl-URI
 perl-Unicode-Collate
@@ -1842,7 +1807,6 @@ rhel-system-roles
 rhel-system-roles-sap
 rig
 rng-tools
-rootfiles
 rpcbind
 rpcsvc-proto
 rpm
@@ -1885,19 +1849,12 @@ sat4j
 satyr
 sbc
 sbd
-sblim-cmpi-base
 sblim-cmpi-devel
-sblim-indication_helper
-sblim-sfcCommon
-sblim-sfcb
-sblim-sfcc
-sblim-wbemcli
 scap-security-guide
 scap-workbench
 scapy
 scipy
 scl-utils
-scotch
 scrub
 seabios
 seahorse
@@ -1907,7 +1864,6 @@ sendmail
 setools
 setroubleshoot
 setroubleshoot-plugins
-setserial
 setup
 setxkbmap
 sg3_utils
@@ -1942,7 +1898,6 @@ sound-theme-freedesktop
 soundtouch
 source-highlight
 spamassassin
-sparsehash
 spausedd
 speech-dispatcher
 speech-tools
@@ -1977,7 +1932,6 @@ sushi
 swig
 switcheroo-control
 swtpm
-symlinks
 sysfsutils
 syslinux
 sysprof
@@ -1998,8 +1952,6 @@ tcsh
 teckit
 telnet
 tepl
-tesseract
-tesseract-tessdata
 tex-fonts-hebrew
 texi2html
 texinfo
@@ -2027,7 +1979,6 @@ tpm2-pkcs11
 tpm2-tools
 tpm2-tss
 trace-cmd
-tracer
 traceroute
 tracker
 tracker-miners
@@ -2089,7 +2040,6 @@ vulkan-headers
 vulkan-loader
 vulkan-tools
 vulkan-validation-layers
-watchdog
 wavpack
 wayland
 wayland-protocols
@@ -2107,7 +2057,6 @@ woff2
 words
 wpa_supplicant
 wpebackend-fdo
-wsmancli
 xalan-j2
 xapian-core
 xcb-util
@@ -2134,7 +2083,6 @@ xml-commons-resolver
 xmlgraphics-commons
 xmlrpc-c
 xmlsec1
-xmlto
 xmltoman
 xmvn
 xorg-x11-drivers

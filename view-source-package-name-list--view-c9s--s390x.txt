@@ -7,14 +7,12 @@ LibRaw
 ModemManager
 NetworkManager
 NetworkManager-libreswan
-OpenIPMI
 PEGTL
 PackageKit
 PyYAML
 SDL
 SDL2
 SLOF
-SuperLU
 WALinuxAgent
 Xaw3d
 a52dec
@@ -124,7 +122,6 @@ cdi-api
 cdparanoia
 cdrkit
 ceph
-ceres-solver
 certmonger
 chan
 checkpolicy
@@ -134,7 +131,6 @@ chrome-gnome-shell
 chrony
 chrpath
 cifs-utils
-cim-schema
 cjose
 clang
 cldr-emoji-annotation
@@ -159,7 +155,6 @@ compat-locales-sap
 compat-readline5
 conmon
 conntrack-tools
-console-setup
 container-selinux
 containernetworking-plugins
 convmv
@@ -188,14 +183,12 @@ custodia
 cyrus-imapd
 cyrus-sasl
 cyrus-timezones
-dblatex
 dbus
 dbus-broker
 dbus-glib
 dbus-python
 dconf
 dconf-editor
-dcraw
 ddiskit
 dejagnu
 dejavu-fonts
@@ -206,7 +199,6 @@ device-mapper-multipath
 device-mapper-persistent-data
 dhcp
 dialog
-diffstat
 diffutils
 ding-libs
 dlm
@@ -218,8 +210,6 @@ docbook-style-dsssl
 docbook-style-xsl
 docbook-utils
 docbook5-schemas
-docbook5-style-xsl
-dos2unix
 dosfstools
 dotconf
 double-conversion
@@ -237,7 +227,6 @@ e2fsprogs
 ebtables
 ed
 efi-rpm-macros
-eigen3
 elfutils
 emacs
 emacs-auctex
@@ -291,7 +280,6 @@ fpc-srpm-macros
 freeglut
 freeipa
 freeipa-healthcheck
-freeipmi
 freeradius
 freerdp
 freetype
@@ -319,13 +307,11 @@ gdm
 gedit
 gedit-plugins
 gegl04
-genwqe-tools
 geoclue2
 geocode-glib
 geolite2
 gettext
 gfbgraph
-gflags
 gfs2-utils
 ghc-srpm-macros
 ghostscript
@@ -339,7 +325,6 @@ glib-networking
 glib2
 glibc
 glibmm24
-glog
 glslang
 glusterfs
 gmp
@@ -628,13 +613,11 @@ initial-setup
 initscripts
 inkscape
 insights-client
-iotop
 ipa-healthcheck
 ipcalc
 iperf3
 ipmitool
 iproute
-iprutils
 ipset
 iptables
 iptraf-ng
@@ -700,7 +683,6 @@ kdump-anaconda-addon
 keepalived
 kernel
 kernel-srpm-macros
-kernelshark
 kexec-tools
 keybinder3
 keycloak-httpd-client-install
@@ -719,14 +701,11 @@ langpacks
 langtable
 lasso
 latex2html
-latexmk
 lato-fonts
 lcms2
 ldapjdk
 ldns
 ledmon
-lensfun
-leptonica
 less
 lftp
 libICE
@@ -780,7 +759,6 @@ libcmis
 libcomps
 libconfig
 libdaemon
-libdap
 libdatrie
 libdazzle
 libdb
@@ -916,7 +894,6 @@ libpwquality
 libqb
 libqmi
 libqxp
-librabbitmq
 librdkafka
 librelp
 libreoffice
@@ -946,7 +923,6 @@ libsndfile
 libsolv
 libsoup
 libspectre
-libspiro
 libsrtp
 libssh
 libstaroffice
@@ -965,8 +941,6 @@ libtimezonemap
 libtirpc
 libtool
 libtpms
-libucil
-libunicap
 libunistring
 libunwind
 liburing
@@ -975,7 +949,6 @@ libusbx
 libuser
 libutempter
 libuv
-libva
 libvarlink
 libvdpau
 libverto
@@ -1005,14 +978,12 @@ libxml2
 libxmlb
 libxshmfence
 libxslt
-libyami
 libyaml
 libyang
 libzfcphbaapi
 libzip
 libzmf
 linux-firmware
-linuxconsoletools
 linuxdoc-tools
 linuxptp
 lklug-fonts
@@ -1089,11 +1060,9 @@ mesa-demos
 mesa-libGLU
 mesa-libGLw
 metacity
-metis
 microdnf
 micropipenv
 minicom
-mksh
 mlocate
 mobile-broadband-provider-info
 mod_auth_gssapi
@@ -1108,7 +1077,6 @@ mod_md
 mod_security
 mod_security_crs
 mod_wsgi
-modulemd-tools
 motif
 mozilla-filesystem
 mozjs78
@@ -1121,7 +1089,6 @@ mrtg
 mt-st
 mtdev
 mtr
-mtx
 munge
 mutt
 mutter
@@ -1202,7 +1169,6 @@ opencl-filesystem
 opencl-headers
 opencryptoki
 opendnssec
-openhpi
 openjade
 openjpeg2
 openldap
@@ -1243,10 +1209,8 @@ pangomm
 paper
 paps
 parted
-passivetex
 passwd
 patch
-patchutils
 pavucontrol
 pbzip2
 pcaudiolib
@@ -1296,7 +1260,6 @@ perl-Data-Dump
 perl-Data-Dumper
 perl-Data-OptList
 perl-Data-Section
-perl-Data-UUID
 perl-Date-Calc
 perl-Date-Manip
 perl-Devel-PPPort
@@ -1362,7 +1325,6 @@ perl-MRO-Compat
 perl-Mail-AuthenticationResults
 perl-Mail-DKIM
 perl-Mail-SPF
-perl-Mail-Sender
 perl-MailTools
 perl-Math-BigInt
 perl-Math-BigInt-FastCalc
@@ -1433,6 +1395,7 @@ perl-Tie-RefHash
 perl-Time-HiRes
 perl-Time-Local
 perl-TimeDate
+perl-Tk
 perl-Try-Tiny
 perl-URI
 perl-Unicode-Collate
@@ -1543,7 +1506,6 @@ python-augeas
 python-blivet
 python-cffi
 python-chardet
-python-click
 python-configobj
 python-configshell
 python-cpio
@@ -1690,7 +1652,6 @@ resteasy
 rhel-system-roles
 rig
 rng-tools
-rootfiles
 rpcbind
 rpcsvc-proto
 rpm
@@ -1731,19 +1692,12 @@ sap-cluster-connector
 satyr
 sbc
 sbd
-sblim-cmpi-base
 sblim-cmpi-devel
-sblim-indication_helper
-sblim-sfcCommon
-sblim-sfcb
-sblim-sfcc
-sblim-wbemcli
 scap-security-guide
 scap-workbench
 scapy
 scipy
 scl-utils
-scotch
 scrub
 seabios
 seahorse
@@ -1784,7 +1738,6 @@ sound-theme-freedesktop
 soundtouch
 source-highlight
 spamassassin
-sparsehash
 spausedd
 speech-dispatcher
 speech-tools
@@ -1816,7 +1769,6 @@ sushi
 swig
 switcheroo-control
 swtpm
-symlinks
 sysprof
 sysstat
 system-config-printer
@@ -1833,8 +1785,6 @@ tcsh
 teckit
 telnet
 tepl
-tesseract
-tesseract-tessdata
 tex-fonts-hebrew
 texi2html
 texinfo
@@ -1846,7 +1796,6 @@ time
 tinycdb
 tk
 tlog
-tmpwatch
 tmux
 tog-pegasus
 tokyocabinet
@@ -1860,7 +1809,6 @@ tpm2-pkcs11
 tpm2-tools
 tpm2-tss
 trace-cmd
-tracer
 traceroute
 tracker
 tracker-miners
@@ -1918,7 +1866,6 @@ vulkan-headers
 vulkan-loader
 vulkan-tools
 vulkan-validation-layers
-watchdog
 wavpack
 wayland
 wayland-protocols
@@ -1936,7 +1883,6 @@ woff2
 words
 wpa_supplicant
 wpebackend-fdo
-wsmancli
 xalan-j2
 xapian-core
 xcb-util
@@ -1962,7 +1908,6 @@ xml-commons-apis
 xml-commons-resolver
 xmlrpc-c
 xmlsec1
-xmlto
 xmltoman
 xorg-x11-drv-libinput
 xorg-x11-font-utils
