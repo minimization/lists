@@ -1247,7 +1247,6 @@ perl-Compress-Raw-Lzma
 perl-Compress-Raw-Zlib
 perl-Config-Perl-V
 perl-Convert-ASN1
-perl-Crypt-DES
 perl-Crypt-OpenSSL-Bignum
 perl-Crypt-OpenSSL-RSA
 perl-Crypt-OpenSSL-Random
@@ -1268,7 +1267,6 @@ perl-Digest
 perl-Digest-HMAC
 perl-Digest-MD5
 perl-Digest-SHA
-perl-Digest-SHA1
 perl-Encode
 perl-Encode-Detect
 perl-Encode-Locale
@@ -1342,7 +1340,6 @@ perl-Net-DNS
 perl-Net-HTTP
 perl-Net-Ping
 perl-Net-SMTP-SSL
-perl-Net-SNMP
 perl-Net-SSLeay
 perl-Net-Server
 perl-NetAddr-IP
@@ -1413,7 +1410,6 @@ perl-XML-Simple
 perl-XML-TokeParser
 perl-XML-XPath
 perl-YAML
-perl-YAML-LibYAML
 perl-autodie
 perl-bignum
 perl-constant
