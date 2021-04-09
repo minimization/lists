@@ -237,6 +237,7 @@ edk2
 efi-rpm-macros
 efibootmgr
 efivar
+egl-wayland
 elfutils
 emacs
 emacs-auctex

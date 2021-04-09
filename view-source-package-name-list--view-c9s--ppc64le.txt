@@ -233,6 +233,7 @@ e2fsprogs
 ebtables
 ed
 efi-rpm-macros
+egl-wayland
 elfutils
 emacs
 emacs-auctex
