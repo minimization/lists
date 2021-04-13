@@ -36,9 +36,7 @@ ant-contrib
 anthy
 anthy-unicode
 antlr
-antlr3
 antlr32
-antlr4-project
 aopalliance
 apache-commons-beanutils
 apache-commons-cli
@@ -56,7 +54,6 @@ apache-commons-parent
 apache-ivy
 apache-parent
 apache-resource-bundles
-apache-sshd
 apiguardian
 appstream
 appstream-data
@@ -81,7 +78,6 @@ atlas
 attr
 audit
 augeas
-authselect
 auto
 autoconf
 autoconf-archive
@@ -117,7 +113,6 @@ brotli
 bsf
 bsh
 bubblewrap
-buildnumber-maven-plugin
 byacc
 byaccj
 byte-buddy
@@ -159,6 +154,7 @@ color-filesystem
 colord
 colord-gtk
 compat-lua
+compat-openssl11
 compat-readline5
 compiler-rt
 console-setup
@@ -170,7 +166,6 @@ cppcheck
 cppunit
 cracklib
 crash
-createrepo_c
 cronie
 crontabs
 crypto-policies
@@ -238,7 +233,6 @@ eclipse-ecf
 eclipse-emf
 eclipse-license
 ed
-ed25519-java
 edk2
 efi-rpm-macros
 efivar
@@ -253,7 +247,6 @@ enchant2
 enscript
 environment-modules
 espeak-ng
-ethtool
 evince
 evolution
 evolution-data-server
@@ -289,6 +282,7 @@ flexiblas
 flite
 flute
 fmt
+foma
 fontawesome-fonts
 fontconfig
 fontforge
@@ -581,7 +575,6 @@ ipython
 iscsi-initiator-utils
 isns-utils
 iso-codes
-isomd5sum
 isorelax
 itstool
 iw
@@ -593,13 +586,11 @@ jackson-databind
 jackson-jaxrs-providers
 jackson-modules-base
 jackson-parent
-jacoco
 jakarta-activation
 jakarta-annotations
 jakarta-commons-httpclient
 jakarta-el
 jakarta-interceptors
-jakarta-json
 jakarta-mail
 jakarta-oro
 jakarta-persistence
@@ -620,7 +611,6 @@ java-atk-wrapper
 java_cup
 javacc
 javacc-maven-plugin
-javaewah
 javapackages-tools
 javaparser
 javapoet
@@ -651,7 +641,6 @@ jdom2
 jetty
 jffi
 jflex
-jgit
 jitterentropy
 jline2
 jmc-core
@@ -679,7 +668,6 @@ jzlib
 kbd
 kernel
 kernel-srpm-macros
-kexec-tools
 keybinder3
 keyutils
 kmod
@@ -743,7 +731,6 @@ libatomic_ops
 libavc1394
 libbase
 libblockdev
-libblocksruntime
 libbpf
 libbsd
 libburn
@@ -930,7 +917,6 @@ libsolv
 libsoup
 libspectre
 libspiro
-libsqlite3x
 libsrtp
 libssh
 libstaroffice
@@ -1062,7 +1048,6 @@ maven-reporting-api
 maven-reporting-impl
 maven-resolver
 maven-resources-plugin
-maven-scm
 maven-script-interpreter
 maven-shade-plugin
 maven-shared-incremental
@@ -1107,7 +1092,6 @@ mm-common
 mobile-broadband-provider-info
 mockito
 modello
-mojo-executor
 mojo-parent
 motif
 mozjs78
@@ -1912,7 +1896,6 @@ python-ptyprocess
 python-py
 python-pyasn1
 python-pycodestyle
-python-pycotap
 python-pycparser
 python-pycurl
 python-pygments
@@ -2070,7 +2053,6 @@ rasqal
 rdma-core
 re2c
 readline
-realmd
 redhat-bookmarks
 redhat-indexhtml
 redhat-logos
@@ -2263,16 +2245,13 @@ star
 startup-notification
 stax2-api
 strace
-string-template-maven-plugin
 stringtemplate
-stringtemplate4
 stunnel
 subscription-manager
 subversion
 sudo
 suitesparse
 supermin
-swift-lang
 swig
 switcheroo-control
 swtpm
@@ -2302,7 +2281,6 @@ tinycdb
 tinyxml2
 tix
 tk
-tmux
 tokyocabinet
 tomcatjss
 totem-pl-parser
@@ -2315,7 +2293,6 @@ tracker3
 tracker3-miners
 transfig
 tree
-treelayout
 trousers
 ttembed
 ttfautohint
@@ -2344,7 +2321,6 @@ usbredir
 usbutils
 usermode
 userspace-rcu
-utf8cpp
 utf8proc
 uthash
 util-linux
@@ -2356,6 +2332,7 @@ varnish
 velocity
 vim
 virt-what
+voikko-fi
 volume_key
 vsftpd
 vte291

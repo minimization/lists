@@ -165,6 +165,7 @@ colord
 colord-gtk
 compat-libgfortran-48
 compat-locales-sap
+compat-openssl11
 compat-readline5
 compiler-rt
 conmon
@@ -386,7 +387,6 @@ gnome-keyring
 gnome-logs
 gnome-menus
 gnome-online-accounts
-gnome-online-miners
 gnome-photos
 gnome-remote-desktop
 gnome-screenshot
@@ -1103,7 +1103,6 @@ luksmeta
 lvm2
 lynx
 lz4
-lzip
 lzo
 lzop
 m17n-db
@@ -1164,19 +1163,15 @@ mingw-crt
 mingw-filesystem
 mingw-srvany
 minicom
+mkfontscale
 mlocate
 mobile-broadband-provider-info
 mod_auth_gssapi
 mod_auth_mellon
 mod_auth_openidc
 mod_authnz_pam
-mod_fcgid
-mod_http2
 mod_intercept_form_submit
 mod_lookup_identity
-mod_md
-mod_security
-mod_security_crs
 mod_wsgi
 mokutil
 motif
@@ -2030,6 +2025,7 @@ virt-viewer
 virt-what
 virt-who
 virtio-win
+voikko-fi
 volume_key
 vorbis-tools
 vsftpd
@@ -2092,7 +2088,6 @@ xorg-x11-drv-qxl
 xorg-x11-drv-v4l
 xorg-x11-drv-vmware
 xorg-x11-drv-wacom
-xorg-x11-font-utils
 xorg-x11-fonts
 xorg-x11-proto-devel
 xorg-x11-server
