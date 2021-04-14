@@ -16,7 +16,6 @@ SDL2
 SDL_sound
 SuperLU
 Xaw3d
-a2ps
 a52dec
 accountsservice
 acl
@@ -269,8 +268,6 @@ felix-utils
 fftw
 file
 filesystem
-findbugs
-findbugs-bcel
 findutils
 firewalld
 fish
@@ -578,7 +575,6 @@ iso-codes
 isorelax
 itstool
 iw
-jFormatString
 jackson-annotations
 jackson-bom
 jackson-core
@@ -631,7 +627,6 @@ jboss-logging-tools
 jboss-logmanager
 jboss-modules
 jboss-parent
-jcip-annotations
 jctools
 jdeparser
 jdepend
@@ -813,7 +808,6 @@ libinput
 libiptcdata
 libiscsi
 libisofs
-libjaylink
 libjcat
 libjpeg-turbo
 libkcapi
@@ -1341,7 +1335,6 @@ perl-Encode-EUCJPASCII
 perl-Encode-IMAPUTF7
 perl-Encode-Locale
 perl-Env
-perl-Env-Sanctify
 perl-Error
 perl-Eval-Closure
 perl-Exception-Class
@@ -1440,7 +1433,6 @@ perl-Math-BigInt
 perl-Math-BigInt-FastCalc
 perl-Math-BigRat
 perl-Math-Int64
-perl-Mixin-Linewise
 perl-Module-Build
 perl-Module-Build-Tiny
 perl-Module-CoreList
@@ -1507,9 +1499,7 @@ perl-PerlIO-utf8_strict
 perl-PerlIO-via-QuotedPrint
 perl-Pod-Checker
 perl-Pod-Coverage
-perl-Pod-Coverage-TrustPod
 perl-Pod-Escapes
-perl-Pod-Eventual
 perl-Pod-Markdown
 perl-Pod-Parser
 perl-Pod-Perldoc
@@ -1518,7 +1508,6 @@ perl-Pod-Usage
 perl-Readonly
 perl-Ref-Util
 perl-Ref-Util-XS
-perl-Regexp-Common
 perl-Role-Tiny
 perl-SGMLSpm
 perl-Scalar-List-Utils
@@ -1528,7 +1517,6 @@ perl-Socket
 perl-Socket6
 perl-Software-License
 perl-Specio
-perl-Spellunker
 perl-Storable
 perl-String-CRC32
 perl-String-ShellQuote
@@ -1562,22 +1550,18 @@ perl-Test-File-ShareDir
 perl-Test-Harness
 perl-Test-InDistDir
 perl-Test-Inter
-perl-Test-LeakTrace
 perl-Test-LongString
 perl-Test-Needs
 perl-Test-NoWarnings
 perl-Test-Output
 perl-Test-Pod
 perl-Test-Pod-Coverage
-perl-Test-Regexp
 perl-Test-Requires
 perl-Test-RequiresInternet
 perl-Test-Simple
-perl-Test-Synopsis
 perl-Test-Taint
 perl-Test-TrailingSpace
 perl-Test-Unit
-perl-Test-Valgrind
 perl-Test-Warn
 perl-Test-Warnings
 perl-Test-Without-Module
@@ -1780,7 +1764,6 @@ python-docutils
 python-dulwich
 python-enchant
 python-ethtool
-python-eventlet
 python-execnet
 python-extras
 python-factory-boy
@@ -1855,7 +1838,6 @@ python-meh
 python-mimeparse
 python-mistune
 python-mock
-python-monotonic
 python-multidict
 python-munkres
 python-mypy_extensions
@@ -1920,7 +1902,6 @@ python-qrcode
 python-qt5
 python-readthedocs-sphinx-ext
 python-recommonmark
-python-redis
 python-regex
 python-requests
 python-requests-download

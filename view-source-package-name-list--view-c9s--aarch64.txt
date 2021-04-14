@@ -1570,7 +1570,6 @@ python-networkx
 python-nss
 python-oauthlib
 python-packaging
-python-pexpect
 python-pid
 python-pip
 python-ply
@@ -1578,7 +1577,6 @@ python-prettytable
 python-productmd
 python-psutil
 python-psycopg2
-python-ptyprocess
 python-pyasn1
 python-pycdlib
 python-pycparser
