@@ -288,8 +288,6 @@ foomatic-db
 fpc-srpm-macros
 fprintd
 freeglut
-freeipa
-freeipa-healthcheck
 freeradius
 freerdp
 freetype
@@ -628,6 +626,7 @@ initscripts
 inkscape
 insights-client
 iotop
+ipa
 ipa-healthcheck
 ipcalc
 iperf3
