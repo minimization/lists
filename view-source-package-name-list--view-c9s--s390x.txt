@@ -7,6 +7,7 @@ LibRaw
 ModemManager
 NetworkManager
 NetworkManager-libreswan
+OpenIPMI
 PEGTL
 PackageKit
 PyYAML
@@ -131,6 +132,7 @@ chrome-gnome-shell
 chrony
 chrpath
 cifs-utils
+cim-schema
 cjose
 clang
 cldr-emoji-annotation
@@ -190,6 +192,7 @@ dbus-glib
 dbus-python
 dconf
 dconf-editor
+dcraw
 ddiskit
 dejagnu
 dejavu-fonts
@@ -200,6 +203,7 @@ device-mapper-multipath
 device-mapper-persistent-data
 dhcp
 dialog
+diffstat
 diffutils
 ding-libs
 dlm
@@ -211,6 +215,7 @@ docbook-style-dsssl
 docbook-style-xsl
 docbook-utils
 docbook5-schemas
+dos2unix
 dosfstools
 dotconf
 double-conversion
@@ -229,6 +234,7 @@ ebtables
 ed
 efi-rpm-macros
 egl-wayland
+eigen3
 elfutils
 emacs
 emacs-auctex
@@ -280,6 +286,7 @@ foomatic
 foomatic-db
 fpc-srpm-macros
 freeglut
+freeipmi
 freeradius
 freerdp
 freetype
@@ -307,6 +314,7 @@ gdm
 gedit
 gedit-plugins
 gegl04
+genwqe-tools
 geoclue2
 geocode-glib
 geolite2
@@ -612,12 +620,14 @@ initial-setup
 initscripts
 inkscape
 insights-client
+iotop
 ipa
 ipa-healthcheck
 ipcalc
 iperf3
 ipmitool
 iproute
+iprutils
 ipset
 iptables
 iptraf-ng
@@ -706,6 +716,7 @@ lcms2
 ldapjdk
 ldns
 ledmon
+leptonica
 less
 lftp
 libICE
@@ -759,6 +770,7 @@ libcmis
 libcomps
 libconfig
 libdaemon
+libdap
 libdatrie
 libdazzle
 libdb
@@ -894,6 +906,7 @@ libpwquality
 libqb
 libqmi
 libqxp
+librabbitmq
 librdkafka
 librelp
 libreoffice
@@ -905,6 +918,7 @@ libreswan
 librevenge
 librhsm
 librsvg2
+librtas
 librx
 libsamplerate
 libseccomp
@@ -949,6 +963,7 @@ libusbx
 libuser
 libutempter
 libuv
+libva
 libvarlink
 libvdpau
 libverto
@@ -984,6 +999,7 @@ libzfcphbaapi
 libzip
 libzmf
 linux-firmware
+linuxconsoletools
 linuxdoc-tools
 linuxptp
 lklug-fonts
@@ -1063,6 +1079,7 @@ microdnf
 micropipenv
 minicom
 mkfontscale
+mksh
 mlocate
 mobile-broadband-provider-info
 mod_auth_gssapi
@@ -1072,6 +1089,7 @@ mod_authnz_pam
 mod_intercept_form_submit
 mod_lookup_identity
 mod_wsgi
+modulemd-tools
 motif
 mozilla-filesystem
 mozjs78
@@ -1164,6 +1182,7 @@ opencl-filesystem
 opencl-headers
 opencryptoki
 opendnssec
+openhpi
 openjade
 openjpeg2
 openldap
@@ -1206,6 +1225,7 @@ paps
 parted
 passwd
 patch
+patchutils
 pavucontrol
 pbzip2
 pcaudiolib
@@ -1497,6 +1517,7 @@ python-augeas
 python-blivet
 python-cffi
 python-chardet
+python-click
 python-configobj
 python-configshell
 python-cpio
@@ -1643,6 +1664,7 @@ resteasy
 rhel-system-roles
 rig
 rng-tools
+rootfiles
 rpcbind
 rpcsvc-proto
 rpm
@@ -1683,12 +1705,19 @@ sap-cluster-connector
 satyr
 sbc
 sbd
+sblim-cmpi-base
 sblim-cmpi-devel
+sblim-indication_helper
+sblim-sfcCommon
+sblim-sfcb
+sblim-sfcc
+sblim-wbemcli
 scap-security-guide
 scap-workbench
 scapy
 scipy
 scl-utils
+scotch
 scrub
 seabios
 seahorse
@@ -1760,6 +1789,7 @@ sushi
 swig
 switcheroo-control
 swtpm
+symlinks
 sysprof
 sysstat
 system-config-printer
@@ -1776,6 +1806,8 @@ tcsh
 teckit
 telnet
 tepl
+tesseract
+tesseract-tessdata
 tex-fonts-hebrew
 texi2html
 texinfo
@@ -1787,6 +1819,7 @@ time
 tinycdb
 tk
 tlog
+tmpwatch
 tmux
 tog-pegasus
 tokyocabinet
@@ -1800,6 +1833,7 @@ tpm2-pkcs11
 tpm2-tools
 tpm2-tss
 trace-cmd
+tracer
 traceroute
 tracker
 tracker-miners
@@ -1876,6 +1910,7 @@ woff2
 words
 wpa_supplicant
 wpebackend-fdo
+wsmancli
 xalan-j2
 xapian-core
 xcb-util
