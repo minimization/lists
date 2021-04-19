@@ -28,6 +28,7 @@ adwaita-icon-theme
 adwaita-qt
 alex
 alsa-lib
+alsa-utils
 amtk
 anaconda
 anaconda-user-help
@@ -83,7 +84,6 @@ auto
 autoconf
 autoconf-archive
 autoconf213
-autogen
 automake
 autotrace
 avahi
@@ -156,7 +156,6 @@ color-filesystem
 colord
 colord-gtk
 compat-lua
-compat-openssl11
 compat-readline5
 compiler-rt
 console-setup
@@ -511,7 +510,6 @@ gtksourceview4
 gtkspell3
 guava
 guile
-guile22
 gvfs
 gzip
 hamcrest
@@ -795,6 +793,7 @@ libguestfs
 libgusb
 libgweather
 libgxps
+libhandy
 libhandy1
 libhangul
 libical
@@ -1655,7 +1654,6 @@ php
 php-pear
 physfs
 pipewire
-pipewire0.2
 pixman
 pkgconf
 pki-core
@@ -1711,7 +1709,6 @@ pycairo
 pyflakes
 pygobject3
 pykickstart
-pylint
 pyparsing
 pyparted
 pyproject-rpm-macros
@@ -1726,7 +1723,6 @@ python-aiohttp-cors
 python-apipkg
 python-appdirs
 python-argcomplete
-python-astroid
 python-async-generator
 python-async-timeout
 python-attrs
@@ -1810,7 +1806,6 @@ python-into-dbus-python
 python-ipykernel
 python-ipython_genutils
 python-iso8601
-python-isort
 python-itsdangerous
 python-jedi
 python-jinja2
@@ -1827,7 +1822,6 @@ python-kdcproxy
 python-kiwisolver
 python-kmod
 python-lark-parser
-python-lazy-object-proxy
 python-ldap
 python-lesscpy
 python-lit
@@ -1988,7 +1982,6 @@ python-wcwidth
 python-webencodings
 python-werkzeug
 python-wheel
-python-wrapt
 python-xmp-toolkit
 python-yarl
 python-yubico
@@ -1996,8 +1989,6 @@ python-zmq
 python-zope-event
 python-zope-interface
 python-zope-testing
-python2-setuptools
-python2.7
 python3-docs
 python3-mallard-ducktype
 python3-mypy
@@ -2311,7 +2302,6 @@ usbutils
 usermode
 userspace-rcu
 utf8proc
-uthash
 util-linux
 uuid
 v4l-utils

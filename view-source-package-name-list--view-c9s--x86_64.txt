@@ -885,7 +885,7 @@ libguestfs-winsupport
 libgusb
 libgweather
 libgxps
-libhandy1
+libhandy
 libhangul
 libical
 libidn2
@@ -1027,7 +1027,6 @@ libtirpc
 libtool
 libtpms
 libunistring
-libunwind
 liburing
 libusb
 libusbx
@@ -1565,7 +1564,6 @@ pigz
 pinentry
 pinfo
 pipewire
-pipewire0.2
 pixman
 pkgconf
 pki-core
@@ -2029,7 +2027,6 @@ urw-base35-fonts
 usb_modeswitch
 usb_modeswitch-data
 usbguard
-usbguard-notifier
 usbredir
 usbutils
 usermode
