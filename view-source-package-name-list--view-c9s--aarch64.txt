@@ -1637,7 +1637,6 @@ pyxdg
 qemu-kvm
 qgnomeplatform
 qpdf
-qperf
 qt5
 qt5-doc
 qt5-qt3d
