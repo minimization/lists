@@ -804,7 +804,6 @@ libhandy
 libhandy1
 libhangul
 libical
-libidn
 libidn2
 libiec61883
 libieee1284

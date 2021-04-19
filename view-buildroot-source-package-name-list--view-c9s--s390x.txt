@@ -785,7 +785,6 @@ libhandy1
 libhangul
 libica
 libical
-libidn
 libidn2
 libieee1284
 libijs
