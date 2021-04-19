@@ -2270,7 +2270,6 @@ unixODBC
 unzip
 upower
 urw-base35-fonts
-usbguard
 usbredir
 usbutils
 usermode
