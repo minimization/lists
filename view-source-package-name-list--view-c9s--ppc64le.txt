@@ -1117,8 +1117,13 @@ mod_auth_gssapi
 mod_auth_mellon
 mod_auth_openidc
 mod_authnz_pam
+mod_fcgid
+mod_http2
 mod_intercept_form_submit
 mod_lookup_identity
+mod_md
+mod_security
+mod_security_crs
 mod_wsgi
 modulemd-tools
 motif
