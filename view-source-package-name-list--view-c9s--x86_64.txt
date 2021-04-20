@@ -467,7 +467,6 @@ gzip
 hamcrest
 haproxy
 harfbuzz
-hawtjni
 hdparm
 help2man
 hesiod
@@ -703,8 +702,6 @@ jakarta-oro
 jakarta-saaj
 jakarta-server-pages
 jakarta-servlet
-jansi-native
-jansi1
 jansson
 jasper
 java-1.8.0-openjdk
@@ -734,7 +731,6 @@ js-d3-flame-graph
 jsch
 json-c
 json-glib
-jsoup
 jsr-305
 jss
 julietaula-montserrat-fonts

@@ -45,7 +45,6 @@ ansible-freeipa
 ant
 anthy-unicode
 antlr
-aopalliance
 apache-commons-cli
 apache-commons-codec
 apache-commons-collections
@@ -66,7 +65,6 @@ assertj-core
 at
 at-spi2-atk
 at-spi2-core
-atinject
 atk
 atkmm
 atlas
@@ -119,7 +117,6 @@ cachefilesd
 cairo
 cairomm
 catch1
-cdi-api
 cdparanoia
 cdrdao
 cdrkit
@@ -390,7 +387,6 @@ golang
 gom
 google-carlito-fonts
 google-droid-fonts
-google-guice
 google-noto-cjk-fonts
 google-noto-emoji-fonts
 google-noto-fonts
@@ -428,7 +424,6 @@ gtk4
 gtkmm30
 gtksourceview4
 gtkspell3
-guava
 gubbi-fonts
 guestfs-tools
 gutenprint
@@ -436,7 +431,6 @@ gvfs
 gzip
 hamcrest
 harfbuzz
-hawtjni
 hdparm
 help2man
 hesiod
@@ -661,14 +655,9 @@ jackson-databind
 jackson-jaxrs-providers
 jackson-modules-base
 jakarta-activation
-jakarta-annotations
-jakarta-el
-jakarta-interceptors
 jakarta-mail
 jakarta-oro
 jakarta-saaj
-jansi-native
-jansi1
 jansson
 jasper
 java-1.8.0-openjdk
@@ -695,8 +684,6 @@ js-d3-flame-graph
 jsch
 json-c
 json-glib
-jsoup
-jsr-305
 jss
 julietaula-montserrat-fonts
 junit
@@ -1082,10 +1069,6 @@ mariadb-connector-c
 mariadb-connector-odbc
 mariadb-java-client
 matchbox-window-manager
-maven
-maven-resolver
-maven-shared-utils
-maven-wagon
 mc
 mcpp
 mcstrans
@@ -1490,12 +1473,6 @@ pixman
 pkgconf
 pki-core
 pki-servlet-engine
-plexus-cipher
-plexus-classworlds
-plexus-containers
-plexus-interpolation
-plexus-sec-dispatcher
-plexus-utils
 plotnetcfg
 plotutils
 plymouth
@@ -1768,7 +1745,6 @@ sil-nuosu-fonts
 sil-padauk-fonts
 sil-scheherazade-fonts
 sip
-sisu
 skopeo
 slang
 slapi-nis
