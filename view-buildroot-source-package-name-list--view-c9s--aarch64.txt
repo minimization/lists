@@ -798,7 +798,6 @@ libgusb
 libgweather
 libgxps
 libhandy
-libhandy1
 libhangul
 libical
 libidn2
@@ -1879,6 +1878,7 @@ python-ptyprocess
 python-py
 python-pyasn1
 python-pycodestyle
+python-pycotap
 python-pycparser
 python-pycurl
 python-pygments
@@ -2251,7 +2251,6 @@ tclx
 tcsh
 teckit
 telnet
-tepl
 testng
 texi2html
 texinfo
@@ -2271,8 +2270,7 @@ tpm2-pkcs11
 tpm2-tools
 tpm2-tss
 tracker
-tracker3
-tracker3-miners
+tracker-miners
 transfig
 tree
 trousers
@@ -2353,6 +2351,7 @@ xdg-utils
 xerces-j2
 xfsdump
 xfsprogs
+xhtml1-dtds
 xkbcomp
 xkeyboard-config
 xml-commons-apis
