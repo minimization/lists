@@ -937,6 +937,7 @@ libtimezonemap
 libtirpc
 libtool
 libtpms
+libtraceevent
 libuninameslist
 libunistring
 libunwind
@@ -2285,6 +2286,7 @@ tpm2-abrmd
 tpm2-pkcs11
 tpm2-tools
 tpm2-tss
+trace-cmd
 tracker
 tracker-miners
 transfig
