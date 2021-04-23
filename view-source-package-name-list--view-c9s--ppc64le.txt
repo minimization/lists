@@ -697,6 +697,7 @@ kdump-anaconda-addon
 keepalived
 kernel
 kernel-srpm-macros
+kernelshark
 kexec-tools
 keybinder3
 keycloak-httpd-client-install
@@ -969,6 +970,8 @@ libtimezonemap
 libtirpc
 libtool
 libtpms
+libtraceevent
+libtracefs
 libunistring
 liburing
 libusb

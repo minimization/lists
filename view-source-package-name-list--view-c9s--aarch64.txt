@@ -696,6 +696,7 @@ kbd
 kdump-anaconda-addon
 kernel
 kernel-srpm-macros
+kernelshark
 kexec-tools
 keybinder3
 keycloak-httpd-client-install
@@ -964,6 +965,8 @@ libtimezonemap
 libtirpc
 libtool
 libtpms
+libtraceevent
+libtracefs
 libunistring
 liburing
 libusb
@@ -1195,6 +1198,7 @@ openchange
 opencl-filesystem
 opencl-headers
 opencryptoki
+opencsd
 opendnssec
 openhpi
 openjade
