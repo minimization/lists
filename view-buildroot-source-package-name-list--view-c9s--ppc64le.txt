@@ -287,7 +287,6 @@ fonttosfnt
 foomatic
 foomatic-db
 forge-parent
-fpc-srpm-macros
 freeglut
 freerdp
 freetype
@@ -446,7 +445,6 @@ glm
 glslang
 glusterfs
 gmp
-gnat-srpm-macros
 gnome-autoar
 gnome-bluetooth
 gnome-common
@@ -1119,7 +1117,6 @@ nfs-utils
 nftables
 nghttp2
 nginx
-nim-srpm-macros
 ninja-build
 nmap
 nodejs

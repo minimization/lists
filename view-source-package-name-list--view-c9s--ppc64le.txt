@@ -144,6 +144,7 @@ clutter-gtk
 cmake
 cockpit
 cockpit-composer
+cockpit-machines
 cockpit-podman
 cockpit-session-recording
 cogl
@@ -288,7 +289,6 @@ fontconfig
 fonts-rpm-macros
 foomatic
 foomatic-db
-fpc-srpm-macros
 fprintd
 freeglut
 freeipmi
@@ -341,7 +341,6 @@ glibmm24
 glslang
 glusterfs
 gmp
-gnat-srpm-macros
 gnome-autoar
 gnome-backgrounds
 gnome-bluetooth
@@ -358,6 +357,7 @@ gnome-extensions-app
 gnome-font-viewer
 gnome-initial-setup
 gnome-keyring
+gnome-kiosk
 gnome-logs
 gnome-menus
 gnome-online-accounts
@@ -1173,7 +1173,6 @@ nfs4-acl-tools
 nftables
 nghttp2
 nginx
-nim-srpm-macros
 nispor
 nmap
 nmstate
@@ -1540,7 +1539,6 @@ python-augeas
 python-blivet
 python-cffi
 python-chardet
-python-click
 python-configobj
 python-configshell
 python-cpio
@@ -1927,6 +1925,7 @@ waypipe
 web-assets
 webkit2gtk3
 webrtc-audio-processing
+weldr-client
 wget
 which
 whois
