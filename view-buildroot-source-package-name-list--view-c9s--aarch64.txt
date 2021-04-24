@@ -168,6 +168,8 @@ crash
 createrepo_c
 cronie
 crontabs
+cross-binutils
+cross-gcc
 crypto-policies
 cryptsetup
 cscope
@@ -568,6 +570,7 @@ iptables
 iputils
 ipython
 iscsi-initiator-utils
+isl
 isns-utils
 iso-codes
 isorelax
@@ -2156,7 +2159,6 @@ shaderc
 shadow-utils
 shared-mime-info
 sharutils
-shim-unsigned-aarch64
 shrinkwrap
 sip
 sisu

@@ -168,6 +168,8 @@ crash
 createrepo_c
 cronie
 crontabs
+cross-binutils
+cross-gcc
 crypto-policies
 cryptsetup
 cscope
@@ -557,6 +559,7 @@ iptables
 iputils
 ipython
 iscsi-initiator-utils
+isl
 isns-utils
 iso-codes
 isorelax
