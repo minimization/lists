@@ -83,7 +83,6 @@ augeas
 auto
 autoconf
 autoconf-archive
-autoconf213
 automake
 autotrace
 avahi
@@ -679,7 +678,6 @@ leptonica
 less
 libEMF
 libICE
-libIDL
 libSM
 libX11
 libXScrnSaver
@@ -1706,8 +1704,8 @@ python-async-timeout
 python-attrs
 python-augeas
 python-backcall
+python-bcrypt
 python-beautifulsoup4
-python-betamax
 python-black
 python-blinker
 python-blivet
@@ -1720,14 +1718,12 @@ python-click
 python-colorama
 python-configobj
 python-constantly
-python-cov-core
 python-coverage
 python-cpio
 python-cppy
 python-cpuinfo
 python-cryptography
 python-cups
-python-curio
 python-cycler
 python-dasbus
 python-dateutil
@@ -1783,7 +1779,6 @@ python-inotify
 python-into-dbus-python
 python-ipykernel
 python-ipython_genutils
-python-iso8601
 python-itsdangerous
 python-jedi
 python-jinja2
@@ -1821,7 +1816,6 @@ python-nbformat
 python-netaddr
 python-netifaces
 python-nose
-python-nose2
 python-nss
 python-numexpr
 python-numpydoc
@@ -1829,10 +1823,8 @@ python-oauth2client
 python-oauthlib
 python-olefile
 python-openstackdocstheme
-python-outcome
 python-packaging
 python-pandas
-python-parameterized
 python-parso
 python-pathspec
 python-pbr
@@ -1844,7 +1836,6 @@ python-pillow
 python-pip
 python-pluggy
 python-ply
-python-pretend
 python-prettytable
 python-priority
 python-process-tests
@@ -1886,7 +1877,6 @@ python-requests
 python-requests-download
 python-requests-file
 python-requests-ftp
-python-requests-toolbelt
 python-requests-unixsocket
 python-responses
 python-rjsmin
@@ -1907,7 +1897,6 @@ python-setuptools_scm_git_archive
 python-simpleline
 python-six
 python-slip
-python-sniffio
 python-snowballstemmer
 python-sortedcontainers
 python-soupsieve
@@ -1931,7 +1920,6 @@ python-sphinxcontrib-jsmath
 python-sphinxcontrib-log-cabinet
 python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
-python-sphinxcontrib-trio
 python-sphinxcontrib-websupport
 python-suds
 python-sure
@@ -1947,8 +1935,6 @@ python-tox
 python-tox-current-env
 python-tqdm
 python-traitlets
-python-trio
-python-trustme
 python-twisted
 python-typeshed
 python-typing-extensions
