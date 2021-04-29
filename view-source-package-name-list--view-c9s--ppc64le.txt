@@ -55,7 +55,6 @@ appstream
 appstream-data
 apr
 apr-util
-argon2
 argparse-manpage
 arptables
 asciidoc
@@ -116,6 +115,7 @@ ca-certificates
 cachefilesd
 cairo
 cairomm
+capstone
 catch1
 cdparanoia
 cdrdao
@@ -226,7 +226,6 @@ dpdk
 dptfxtract
 dracut
 driverctl
-drpm
 dtc
 dump
 dvd+rw-tools
@@ -324,7 +323,6 @@ geoclue2
 geocode-glib
 geolite2
 gettext
-gfbgraph
 gfs2-utils
 ghc-srpm-macros
 ghostscript
@@ -884,6 +882,7 @@ libnetfilter_cthelper
 libnetfilter_cttimeout
 libnetfilter_queue
 libnfnetlink
+libnfs
 libnftnl
 libnl3
 libnma
@@ -990,7 +989,6 @@ libvirt-python
 libvisio
 libvisual
 libvma
-libvncserver
 libvoikko
 libvorbis
 libvpd
@@ -1200,6 +1198,7 @@ oniguruma
 opal-prd
 open-sans-fonts
 openal-soft
+openbios
 openblas
 openblas-srpm-macros
 openchange
@@ -1631,6 +1630,7 @@ pytz
 pyusb
 pywbem
 pyxdg
+qemu
 qemu-kvm
 qgnomeplatform
 qpdf
@@ -1902,6 +1902,7 @@ vdo
 velocity
 vhostmd
 vim
+virglrenderer
 virt-manager
 virt-top
 virt-viewer

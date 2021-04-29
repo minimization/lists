@@ -55,7 +55,6 @@ appstream
 appstream-data
 apr
 apr-util
-argon2
 argparse-manpage
 arptables
 asciidoc
@@ -221,7 +220,6 @@ dovecot
 doxygen
 dptfxtract
 dracut
-drpm
 dtc
 dump
 dvd+rw-tools
@@ -316,7 +314,6 @@ geoclue2
 geocode-glib
 geolite2
 gettext
-gfbgraph
 gfs2-utils
 ghc-srpm-macros
 ghostscript
@@ -962,7 +959,6 @@ libvirt-glib
 libvirt-python
 libvisio
 libvisual
-libvncserver
 libvoikko
 libvorbis
 libvpx

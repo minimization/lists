@@ -64,7 +64,6 @@ appstream-data
 apr
 apr-util
 aqute-bnd
-argon2
 argparse-manpage
 arptables
 asciidoc
@@ -245,7 +244,6 @@ dpdk
 dptfxtract
 dracut
 driverctl
-drpm
 dtc
 dump
 dvd+rw-tools
@@ -354,7 +352,6 @@ geoclue2
 geocode-glib
 geolite2
 gettext
-gfbgraph
 gfs2-utils
 ghc-srpm-macros
 ghostscript
@@ -1043,7 +1040,6 @@ libvirt-python
 libvisio
 libvisual
 libvma
-libvncserver
 libvoikko
 libvorbis
 libvpx
