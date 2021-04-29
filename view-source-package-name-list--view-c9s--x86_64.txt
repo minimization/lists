@@ -663,6 +663,7 @@ initial-setup
 initscripts
 inkscape
 insights-client
+intel-cmt-cat
 iotop
 ipa
 ipa-healthcheck
