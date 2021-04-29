@@ -62,7 +62,6 @@ appstream-data
 apr
 apr-util
 aqute-bnd
-argon2
 argparse-manpage
 args4j
 asciidoc
@@ -122,6 +121,7 @@ ca-certificates
 cairo
 cairomm
 cal10n
+capstone
 catch1
 cbi-plugins
 cdi-api
@@ -220,7 +220,6 @@ double-conversion
 dovecot
 doxygen
 dracut
-drpm
 dtc
 dwarves
 dwz
@@ -256,6 +255,7 @@ expat
 expect
 fakeroot
 fasterxml-oss-parent
+fcode-utils
 fdk-aac-free
 felix-gogo-command
 felix-gogo-parent
@@ -315,7 +315,6 @@ gegl04
 geoclue2
 geocode-glib
 gettext
-gfbgraph
 gflags
 gfs2-utils
 ghc
@@ -846,6 +845,7 @@ libnetfilter_cthelper
 libnetfilter_cttimeout
 libnetfilter_queue
 libnfnetlink
+libnfs
 libnftnl
 libnl3
 libnma
@@ -931,6 +931,7 @@ libtraceevent
 libuninameslist
 libunistring
 libunwind
+liburing
 libusb
 libusbx
 libuser
@@ -945,7 +946,6 @@ libvirt-glib
 libvirt-python
 libvisio
 libvisual
-libvncserver
 libvoikko
 libvorbis
 libvpd
@@ -1168,6 +1168,7 @@ ocaml-zarith
 ongres-scram
 oniguruma
 openal-soft
+openbios
 openblas
 openblas-srpm-macros
 openchange
@@ -1668,7 +1669,6 @@ popt
 postfix
 postgresql
 potrace
-powerpc-utils
 ppp
 pps-tools
 procmail
@@ -1969,6 +1969,7 @@ pywbem
 pyxattr
 pyxdg
 qdox
+qemu
 qemu-kvm
 qhull
 qpdf
@@ -2235,7 +2236,6 @@ tpm2-abrmd
 tpm2-pkcs11
 tpm2-tools
 tpm2-tss
-trace-cmd
 tracker
 tracker-miners
 transfig
@@ -2276,6 +2276,7 @@ valgrind
 varnish
 velocity
 vim
+virglrenderer
 virt-what
 voikko-fi
 volume_key
