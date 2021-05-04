@@ -1290,6 +1290,7 @@ perl-Convert-ASN1
 perl-Crypt-OpenSSL-Bignum
 perl-Crypt-OpenSSL-RSA
 perl-Crypt-OpenSSL-Random
+perl-DBD-MariaDB
 perl-DBD-MySQL
 perl-DBD-Pg
 perl-DBD-SQLite
