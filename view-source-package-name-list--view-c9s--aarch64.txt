@@ -1558,6 +1558,7 @@ python-jwcrypto
 python-kdcproxy
 python-kmod
 python-ldap
+python-libevdev
 python-linux-procfs
 python-lit
 python-lxml
