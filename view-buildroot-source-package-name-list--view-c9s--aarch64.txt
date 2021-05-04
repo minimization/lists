@@ -161,7 +161,6 @@ copy-jdk-configs
 coreutils
 corosync
 cpio
-cppcheck
 cppunit
 cracklib
 crash
@@ -603,7 +602,6 @@ jansson
 jasper
 java-1.8.0-openjdk
 java-11-openjdk
-java-atk-wrapper
 java_cup
 javacc
 javacc-maven-plugin
@@ -1165,7 +1163,6 @@ ocaml-seq
 ocaml-sexplib0
 ocaml-srpm-macros
 ocaml-xml-light
-ocaml-zarith
 ongres-scram
 oniguruma
 openal-soft
@@ -1753,7 +1750,6 @@ python-filelock
 python-fixtures
 python-flake8
 python-flaky
-python-flask
 python-flit
 python-freezegun
 python-fs
@@ -1783,7 +1779,6 @@ python-inotify
 python-into-dbus-python
 python-ipykernel
 python-ipython_genutils
-python-itsdangerous
 python-jedi
 python-jinja2
 python-jmespath
@@ -1949,7 +1944,6 @@ python-virtualenv
 python-waitress
 python-wcwidth
 python-webencodings
-python-werkzeug
 python-wheel
 python-xmp-toolkit
 python-yarl
@@ -2008,7 +2002,6 @@ redhat-release
 redhat-rpm-config
 redis
 redland
-reflections
 regexp
 replacer
 rest
@@ -2059,7 +2052,6 @@ rubygem-ethon
 rubygem-eventmachine
 rubygem-excon
 rubygem-faraday
-rubygem-fattr
 rubygem-ffi
 rubygem-flexmock
 rubygem-formatador
@@ -2099,7 +2091,6 @@ rubygem-rb-inotify
 rubygem-redis
 rubygem-ronn-ng
 rubygem-rouge
-rubygem-rr
 rubygem-rspec
 rubygem-rspec-collection_matchers
 rubygem-rspec-core
@@ -2108,7 +2099,6 @@ rubygem-rspec-its
 rubygem-rspec-mocks
 rubygem-rspec-support
 rubygem-ruby-progressbar
-rubygem-session
 rubygem-shindo
 rubygem-sinatra
 rubygem-sqlite3
@@ -2226,7 +2216,6 @@ tidy
 tigervnc
 time
 tinycdb
-tinyxml2
 tix
 tk
 tokyocabinet
@@ -2236,6 +2225,7 @@ tpm2-abrmd
 tpm2-pkcs11
 tpm2-tools
 tpm2-tss
+trace-cmd
 tracker
 tracker-miners
 transfig
@@ -2356,7 +2346,6 @@ yasm
 yelp
 yelp-tools
 yelp-xsl
-z3
 zchunk
 zenity
 zeromq
