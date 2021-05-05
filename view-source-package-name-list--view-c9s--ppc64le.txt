@@ -36,7 +36,6 @@ alsa-sof-firmware
 alsa-tools
 alsa-utils
 amanda
-amtk
 anaconda
 anaconda-user-help
 annobin
@@ -103,6 +102,7 @@ brasero
 brltty
 brotli
 bsf
+btrfs-progs
 bubblewrap
 buildah
 byacc
@@ -1179,6 +1179,8 @@ nodejs-nodemon
 nodejs-packaging
 npth
 nss
+ntfs-3g
+ntfs-3g-system-compression
 ntpstat
 numactl
 numad
@@ -1831,7 +1833,6 @@ tcpdump
 tcsh
 teckit
 telnet
-tepl
 tesseract
 tesseract-tessdata
 tex-fonts-hebrew
@@ -1994,6 +1995,7 @@ yelp-xsl
 zaf
 zchunk
 zenity
+zerofree
 zip
 zlib
 zsh

@@ -36,7 +36,6 @@ alsa-sof-firmware
 alsa-tools
 alsa-utils
 amanda
-amtk
 anaconda
 anaconda-user-help
 annobin
@@ -1782,7 +1781,6 @@ tcpdump
 tcsh
 teckit
 telnet
-tepl
 tesseract
 tesseract-tessdata
 tex-fonts-hebrew
