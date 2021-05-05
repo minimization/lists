@@ -28,7 +28,6 @@ adwaita-qt
 alex
 alsa-lib
 alsa-utils
-amtk
 anaconda
 anaconda-user-help
 annobin
@@ -542,7 +541,6 @@ ibus-table-others
 icoutils
 icu
 icu4j
-idm-console-framework
 iio-sensor-proxy
 ima-evm-utils
 imaptest
@@ -1105,6 +1103,7 @@ nodejs-underscore
 npth
 nss
 nss_wrapper
+ntfs-3g
 numactl
 numpy
 oath-toolkit
