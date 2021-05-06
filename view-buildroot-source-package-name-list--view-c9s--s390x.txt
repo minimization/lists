@@ -1599,7 +1599,6 @@ perl-threads-shared
 perl-utf8-all
 perl-version
 perltidy
-phodav
 php
 php-pear
 physfs
@@ -2222,7 +2221,6 @@ unzip
 upower
 urw-base35-fonts
 usbredir
-usbutils
 usermode
 userspace-rcu
 utf8proc
