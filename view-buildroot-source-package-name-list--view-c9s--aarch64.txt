@@ -781,7 +781,6 @@ libgee
 libgexiv2
 libglvnd
 libgnomekbd
-libgovirt
 libgpg-error
 libgphoto2
 libgsf
@@ -1049,7 +1048,6 @@ maven-surefire
 maven-verifier-plugin
 maven-wagon
 maven2
-mcpp
 mdadm
 mdds
 mdevctl
@@ -2170,7 +2168,6 @@ speech-tools
 speex
 speexdsp
 spice
-spice-gtk
 spice-parent
 spice-protocol
 spirv-headers

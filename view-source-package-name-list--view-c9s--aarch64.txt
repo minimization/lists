@@ -760,7 +760,6 @@ libblockdev
 libbpf
 libburn
 libbytesize
-libcacard
 libcanberra
 libcap
 libcap-ng
@@ -814,7 +813,6 @@ libgee
 libgexiv2
 libglvnd
 libgnomekbd
-libgovirt
 libgpg-error
 libgphoto2
 libgsf
@@ -1068,7 +1066,6 @@ mariadb-connector-odbc
 mariadb-java-client
 matchbox-window-manager
 mc
-mcpp
 mcstrans
 mdadm
 mdevctl
@@ -1457,7 +1454,6 @@ perl-version
 pesign
 pg_repack
 pgaudit
-phodav
 php
 php-pear
 php-pecl-apcu
@@ -1765,7 +1761,6 @@ speech-tools
 speex
 speexdsp
 spice
-spice-gtk
 spirv-headers
 spirv-tools
 splix
