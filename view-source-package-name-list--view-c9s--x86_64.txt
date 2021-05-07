@@ -14,7 +14,6 @@ PackageKit
 PyYAML
 SDL
 SDL2
-SLOF
 WALinuxAgent
 Xaw3d
 a52dec
@@ -243,7 +242,6 @@ dpdk
 dptfxtract
 dracut
 driverctl
-dtc
 dump
 dvd+rw-tools
 dwarves
@@ -327,7 +325,6 @@ frr
 ftp
 fuse
 fuse-overlayfs
-fuse-sshfs
 fuse3
 fwupd
 fxload
@@ -456,7 +453,6 @@ gtksourceview4
 gtkspell3
 guava
 gubbi-fonts
-guestfs-tools
 gutenprint
 gvfs
 gzip
@@ -651,7 +647,6 @@ ibus-m17n
 ibus-table
 ibus-table-chinese
 ibus-typing-booster
-icoutils
 icu
 icu4j
 ignition
@@ -873,7 +868,6 @@ libgsf
 libgtop2
 libgudev
 libguestfs
-libguestfs-winsupport
 libgusb
 libgweather
 libgxps
@@ -1162,9 +1156,6 @@ metacity
 microcode_ctl
 microdnf
 micropipenv
-mingw-crt
-mingw-filesystem
-mingw-srvany
 minicom
 mkfontscale
 mksh
@@ -1230,7 +1221,6 @@ mythes-uk
 nano
 nautilus
 navilu-fonts
-nbdkit
 ncurses
 ndctl
 neon
@@ -2035,13 +2025,7 @@ varnish
 varnish-modules
 vdo
 velocity
-vhostmd
 vim
-virt-manager
-virt-p2v
-virt-top
-virt-v2v
-virt-viewer
 virt-what
 virt-who
 virtio-win
@@ -2106,7 +2090,6 @@ xorg-x11-drv-dummy
 xorg-x11-drv-evdev
 xorg-x11-drv-fbdev
 xorg-x11-drv-libinput
-xorg-x11-drv-qxl
 xorg-x11-drv-v4l
 xorg-x11-drv-vmware
 xorg-x11-drv-wacom
