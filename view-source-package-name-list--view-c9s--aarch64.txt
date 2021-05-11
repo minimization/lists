@@ -330,7 +330,6 @@ git
 git-lfs
 gjs
 glade
-glew
 glib-networking
 glib2
 glibc
@@ -369,7 +368,6 @@ gnome-software
 gnome-system-monitor
 gnome-terminal
 gnome-themes-extra
-gnome-tour
 gnome-tweaks
 gnome-user-docs
 gnome-video-effects
