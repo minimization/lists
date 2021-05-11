@@ -1687,6 +1687,7 @@ rubygem-thread_order
 rubygem-tilt
 runc
 rust
+rust-coreos-installer
 rust-srpm-macros
 rust-toolset
 rust-zram-generator
