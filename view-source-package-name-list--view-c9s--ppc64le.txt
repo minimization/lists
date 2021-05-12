@@ -1080,6 +1080,7 @@ mdevctl
 mecab
 mecab-ipadic
 memcached
+memkind
 memstrack
 mesa
 mesa-demos
