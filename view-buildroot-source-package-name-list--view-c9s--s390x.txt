@@ -866,7 +866,6 @@ librepository
 librevenge
 librhsm
 librsvg2
-librtas
 libsamplerate
 libseccomp
 libsecret
