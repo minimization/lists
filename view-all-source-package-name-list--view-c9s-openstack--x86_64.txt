@@ -9,6 +9,7 @@ ipxe
 kernel-rt
 libcgroup
 libguestfs
+librabbitmq
 libvirt
 openblas
 pyOpenSSL
@@ -44,3 +45,4 @@ supermin
 sysfsutils
 syslinux
 tftp
+tmpwatch

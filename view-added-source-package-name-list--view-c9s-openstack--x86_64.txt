@@ -1,9 +1,11 @@
+OpenIPMI
 google-api-python-client
 google-auth-httplib2
 grpc
 hivex
 libcgroup
 libguestfs
+librabbitmq
 pyOpenSSL
 python-botocore
 python-cachetools
@@ -34,3 +36,4 @@ stunnel
 supermin
 sysfsutils
 tftp
+tmpwatch

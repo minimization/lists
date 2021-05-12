@@ -7,7 +7,6 @@ LibRaw
 ModemManager
 NetworkManager
 NetworkManager-libreswan
-OpenIPMI
 PEGTL
 PackageKit
 PyYAML
@@ -128,7 +127,6 @@ chrome-gnome-shell
 chrony
 chrpath
 cifs-utils
-cim-schema
 cjose
 clang
 cldr-emoji-annotation
@@ -189,7 +187,6 @@ dbus-glib
 dbus-python
 dconf
 dconf-editor
-dcraw
 ddiskit
 dejagnu
 dejavu-fonts
@@ -200,7 +197,6 @@ device-mapper-multipath
 device-mapper-persistent-data
 dhcp
 dialog
-diffstat
 diffutils
 ding-libs
 dlm
@@ -213,7 +209,6 @@ docbook-style-dsssl
 docbook-style-xsl
 docbook-utils
 docbook5-schemas
-dos2unix
 dosfstools
 dotconf
 dotnet3.1
@@ -239,7 +234,6 @@ efi-rpm-macros
 efibootmgr
 efivar
 egl-wayland
-eigen3
 elfutils
 emacs
 emacs-auctex
@@ -289,7 +283,6 @@ foomatic
 foomatic-db
 fprintd
 freeglut
-freeipmi
 freeradius
 freerdp
 freetype
@@ -317,7 +310,6 @@ gdm
 gedit
 gedit-plugins
 gegl04
-genwqe-tools
 geoclue2
 geocode-glib
 geolite2
@@ -629,7 +621,6 @@ ipcalc
 iperf3
 ipmitool
 iproute
-iprutils
 ipset
 iptables
 iptraf-ng
@@ -714,7 +705,6 @@ lcms2
 ldapjdk
 ldns
 ledmon
-leptonica
 less
 lftp
 libICE
@@ -907,7 +897,6 @@ libpwquality
 libqb
 libqmi
 libqxp
-librabbitmq
 libraw1394
 librdkafka
 librelp
@@ -920,7 +909,6 @@ libreswan
 librevenge
 librhsm
 librsvg2
-librtas
 librx
 libsamplerate
 libseccomp
@@ -966,7 +954,6 @@ libusbx
 libuser
 libutempter
 libuv
-libva
 libvarlink
 libvdpau
 libverto
@@ -1001,7 +988,6 @@ libyang
 libzip
 libzmf
 linux-firmware
-linuxconsoletools
 linuxdoc-tools
 linuxptp
 lklug-fonts
@@ -1080,7 +1066,6 @@ microdnf
 micropipenv
 minicom
 mkfontscale
-mksh
 mlocate
 mobile-broadband-provider-info
 mod_auth_gssapi
@@ -1095,7 +1080,6 @@ mod_md
 mod_security
 mod_security_crs
 mod_wsgi
-modulemd-tools
 mokutil
 motif
 mozilla-filesystem
@@ -1189,7 +1173,6 @@ opencl-headers
 opencryptoki
 opencsd
 opendnssec
-openhpi
 openjade
 openjpeg2
 openldap
@@ -1206,7 +1189,6 @@ openssl
 openssl-ibmpkcs11
 openssl-pkcs11
 opentest4j
-openwsman
 opus
 orc
 orca
@@ -1232,7 +1214,6 @@ paps
 parted
 passwd
 patch
-patchutils
 pavucontrol
 pbzip2
 pcaudiolib
@@ -1660,7 +1641,6 @@ resteasy
 rhel-system-roles
 rig
 rng-tools
-rootfiles
 rpcbind
 rpcsvc-proto
 rpm
@@ -1700,19 +1680,12 @@ sane-backends
 sanlock
 satyr
 sbc
-sblim-cmpi-base
 sblim-cmpi-devel
-sblim-indication_helper
-sblim-sfcCommon
-sblim-sfcb
-sblim-sfcc
-sblim-wbemcli
 scap-security-guide
 scap-workbench
 scapy
 scipy
 scl-utils
-scotch
 scrub
 seabios
 seahorse
@@ -1722,7 +1695,6 @@ sendmail
 setools
 setroubleshoot
 setroubleshoot-plugins
-setserial
 setup
 setxkbmap
 sg3_utils
@@ -1785,7 +1757,6 @@ sushi
 swig
 switcheroo-control
 swtpm
-symlinks
 sysprof
 sysstat
 system-config-printer
@@ -1801,8 +1772,6 @@ tcpdump
 tcsh
 teckit
 telnet
-tesseract
-tesseract-tessdata
 tex-fonts-hebrew
 texi2html
 texinfo
@@ -1814,7 +1783,6 @@ time
 tinycdb
 tk
 tlog
-tmpwatch
 tmux
 tog-pegasus
 tokyocabinet
@@ -1828,7 +1796,6 @@ tpm2-pkcs11
 tpm2-tools
 tpm2-tss
 trace-cmd
-tracer
 traceroute
 tracker
 tracker-miners
@@ -1906,7 +1873,6 @@ woff2
 words
 wpa_supplicant
 wpebackend-fdo
-wsmancli
 xalan-j2
 xapian-core
 xcb-util
