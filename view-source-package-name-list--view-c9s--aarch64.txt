@@ -291,7 +291,6 @@ frr
 ftp
 fuse
 fuse-overlayfs
-fuse-sshfs
 fuse3
 fwupd
 fxload
