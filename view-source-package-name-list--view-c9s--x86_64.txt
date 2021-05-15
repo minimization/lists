@@ -142,6 +142,7 @@ chrpath
 cifs-utils
 cjose
 clang
+clang11
 cldr-emoji-annotation
 clevis
 cloud-init
