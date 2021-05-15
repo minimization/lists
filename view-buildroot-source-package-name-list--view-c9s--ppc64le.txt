@@ -971,6 +971,7 @@ lksctp-tools
 lldb
 lldpad
 llvm
+llvm11
 lm_sensors
 lmdb
 lockdev
@@ -1687,6 +1688,7 @@ pyserial
 pytest
 python-Automat
 python-Bottleneck
+python-CommonMark
 python-aiohttp
 python-aiohttp-cors
 python-apipkg
@@ -1845,6 +1847,7 @@ python-pyudev
 python-qrcode
 python-qt5
 python-readthedocs-sphinx-ext
+python-recommonmark
 python-regex
 python-requests
 python-requests-download
