@@ -754,7 +754,6 @@ libarchive
 libassuan
 libasyncns
 libatasmart
-libavc1394
 libbase
 libblockdev
 libbpf
@@ -780,7 +779,6 @@ libdb
 libdmx
 libdnf
 libdrm
-libdv
 libdvdnav
 libdvdread
 libecap
@@ -829,7 +827,6 @@ libhandy
 libhangul
 libical
 libidn2
-libiec61883
 libieee1284
 libijs
 libinput
@@ -915,7 +912,6 @@ libqb
 libqmi
 libqxp
 librabbitmq
-libraw1394
 librdkafka
 librelp
 libreoffice

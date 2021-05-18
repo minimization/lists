@@ -351,7 +351,6 @@ glade
 glib-networking
 glib2
 glibc
-glibc32
 glibmm24
 glslang
 glusterfs
@@ -784,7 +783,6 @@ libarchive
 libassuan
 libasyncns
 libatasmart
-libavc1394
 libbase
 libblockdev
 libbpf
@@ -809,7 +807,6 @@ libdb
 libdmx
 libdnf
 libdrm
-libdv
 libdvdnav
 libdvdread
 libecap
@@ -857,7 +854,6 @@ libhandy
 libhangul
 libical
 libidn2
-libiec61883
 libieee1284
 libijs
 libinput
@@ -943,7 +939,6 @@ libpwquality
 libqb
 libqmi
 libqxp
-libraw1394
 librdkafka
 librelp
 libreoffice
