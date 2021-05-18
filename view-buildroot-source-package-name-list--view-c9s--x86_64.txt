@@ -877,7 +877,6 @@ libqmi
 libqxp
 librabbitmq
 libraqm
-libraw1394
 librdkafka
 librelp
 librepo
