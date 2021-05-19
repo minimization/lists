@@ -924,7 +924,6 @@ libuser
 libutempter
 libuv
 libva
-libvarlink
 libvdpau
 libverto
 libvirt

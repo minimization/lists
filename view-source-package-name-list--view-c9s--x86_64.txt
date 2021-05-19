@@ -996,7 +996,6 @@ libusbx
 libuser
 libutempter
 libuv
-libvarlink
 libvdpau
 libverto
 libvirt
@@ -1839,7 +1838,6 @@ speech-dispatcher
 speech-tools
 speex
 speexdsp
-spice
 spirv-headers
 spirv-tools
 splix

@@ -909,7 +909,6 @@ libuser
 libutempter
 libuv
 libva
-libvarlink
 libverto
 libvirt
 libvirt-glib

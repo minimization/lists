@@ -931,7 +931,6 @@ libusbx
 libuser
 libutempter
 libuv
-libvarlink
 libvdpau
 libverto
 libvirt
