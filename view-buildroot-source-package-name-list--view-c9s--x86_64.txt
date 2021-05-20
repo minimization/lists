@@ -735,7 +735,6 @@ libcdr
 libcmis
 libcomps
 libconfig
-libconfuse
 libdaemon
 libdatrie
 libdazzle
@@ -770,7 +769,6 @@ libfonts
 libformula
 libfprint
 libfreehand
-libftdi
 libgcrypt
 libgdata
 libgdl
