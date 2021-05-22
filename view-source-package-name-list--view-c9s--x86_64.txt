@@ -47,7 +47,6 @@ antlr
 aopalliance
 apache-commons-cli
 apache-commons-codec
-apache-commons-collections
 apache-commons-compress
 apache-commons-exec
 apache-commons-io
@@ -1629,10 +1628,8 @@ python-meh
 python-netaddr
 python-netifaces
 python-networkx
-python-nss
 python-oauthlib
 python-packaging
-python-pexpect
 python-pid
 python-pip
 python-ply
@@ -1640,7 +1637,6 @@ python-prettytable
 python-productmd
 python-psutil
 python-psycopg2
-python-ptyprocess
 python-pyasn1
 python-pycdlib
 python-pycparser
@@ -1948,7 +1944,6 @@ valgrind
 varnish
 varnish-modules
 vdo
-velocity
 vim
 virt-what
 virt-who

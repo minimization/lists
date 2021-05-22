@@ -27,6 +27,8 @@ python-httplib2
 python-itsdangerous
 python-jwt
 python-oauth2client
+python-pexpect
+python-ptyprocess
 python-py
 python-pymongo
 python-rsa

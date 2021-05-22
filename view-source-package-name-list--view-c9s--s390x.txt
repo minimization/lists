@@ -44,7 +44,6 @@ anthy-unicode
 antlr
 apache-commons-cli
 apache-commons-codec
-apache-commons-collections
 apache-commons-io
 apache-commons-lang3
 apache-commons-logging
@@ -643,7 +642,6 @@ jboss-logging-tools
 jdeparser
 jdepend
 jitterentropy
-jna
 jomolhari-fonts
 jose
 jq
@@ -1512,10 +1510,8 @@ python-meh
 python-netaddr
 python-netifaces
 python-networkx
-python-nss
 python-oauthlib
 python-packaging
-python-pexpect
 python-pid
 python-pip
 python-ply
@@ -1523,7 +1519,6 @@ python-prettytable
 python-productmd
 python-psutil
 python-psycopg2
-python-ptyprocess
 python-pyasn1
 python-pycdlib
 python-pycparser
@@ -1809,7 +1804,6 @@ valgrind
 varnish
 varnish-modules
 vdo
-velocity
 vhostmd
 vim
 virt-manager
