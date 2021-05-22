@@ -1780,7 +1780,6 @@ python-nbformat
 python-netaddr
 python-netifaces
 python-nose
-python-nss
 python-numexpr
 python-numpydoc
 python-oauthlib
@@ -2001,7 +2000,6 @@ scipy
 scl-utils
 scons
 scotch
-screen
 scrub
 sed
 selinux-policy
