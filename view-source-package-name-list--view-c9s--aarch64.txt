@@ -358,6 +358,7 @@ gnome-software
 gnome-system-monitor
 gnome-terminal
 gnome-themes-extra
+gnome-tour
 gnome-tweaks
 gnome-user-docs
 gnome-video-effects
@@ -1065,13 +1066,8 @@ mod_auth_gssapi
 mod_auth_mellon
 mod_auth_openidc
 mod_authnz_pam
-mod_fcgid
-mod_http2
 mod_intercept_form_submit
 mod_lookup_identity
-mod_md
-mod_security
-mod_security_crs
 mod_wsgi
 mokutil
 motif
@@ -1656,7 +1652,6 @@ rubygem-rspec-expectations
 rubygem-rspec-mocks
 rubygem-rspec-support
 rubygem-thread_order
-rubygem-tilt
 runc
 rust
 rust-coreos-installer
