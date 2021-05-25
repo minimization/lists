@@ -1189,7 +1189,6 @@ pango
 pangomm
 paper
 papi
-paranamer
 parted
 passwd
 patch

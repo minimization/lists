@@ -1171,7 +1171,6 @@ pandoc
 pango
 pangomm
 paper
-paranamer
 parted
 passwd
 patch
