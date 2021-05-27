@@ -148,7 +148,6 @@ colord
 colord-gtk
 compat-libgfortran-48
 compat-openssl11
-compat-readline5
 compiler-rt
 conmon
 conntrack-tools

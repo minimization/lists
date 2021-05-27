@@ -152,7 +152,6 @@ color-filesystem
 colord
 colord-gtk
 compat-lua
-compat-readline5
 compiler-rt
 console-setup
 copy-jdk-configs
@@ -1028,7 +1027,6 @@ mesa
 mesa-demos
 mesa-libGLU
 meson
-metacity
 metis
 mingw-binutils
 mingw-crt
@@ -1895,7 +1893,6 @@ qdox
 qemu-kvm
 qhull
 qpdf
-qrencode
 qt5
 qt5-doc
 qt5-qtbase
@@ -2054,7 +2051,6 @@ testng
 texi2html
 texinfo
 texlive
-tidy
 tigervnc
 time
 tinycdb

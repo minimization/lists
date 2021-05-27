@@ -148,7 +148,6 @@ colord-gtk
 compat-libgfortran-48
 compat-locales-sap
 compat-openssl11
-compat-readline5
 conmon
 conntrack-tools
 container-selinux
