@@ -943,6 +943,7 @@ libsoup
 libspectre
 libsrtp
 libssh
+libssh2
 libstaroffice
 libstemmer
 libstoragemgmt
@@ -1599,7 +1600,6 @@ python-semantic_version
 python-setuptools
 python-simpleline
 python-six
-python-slip
 python-suds
 python-systemd
 python-toml
@@ -1744,6 +1744,7 @@ sgml-common
 sgpio
 shadow-utils
 shared-mime-info
+sheepdog
 sid
 sil-abyssinica-fonts
 sil-nuosu-fonts
@@ -1974,6 +1975,7 @@ zaf
 zchunk
 zenity
 zerofree
+zfs-fuse
 zip
 zlib
 zsh

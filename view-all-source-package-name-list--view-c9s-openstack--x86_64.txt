@@ -6,10 +6,10 @@ grub2
 hivex
 initscripts
 ipxe
+kernel-rt
 libcgroup
 libguestfs
 librabbitmq
-libvirt
 openblas
 pyOpenSSL
 python-botocore

@@ -1537,7 +1537,6 @@ python-semantic_version
 python-setuptools
 python-simpleline
 python-six
-python-slip
 python-suds
 python-systemd
 python-toml
