@@ -480,7 +480,6 @@ google-noto-cjk-fonts
 google-roboto-slab-fonts
 gperf
 gpgme
-gphoto2
 gpm
 graphene
 graphite2
@@ -904,6 +903,7 @@ libspectre
 libspiro
 libsrtp
 libssh
+libssh2
 libstaroffice
 libstemmer
 libstoragemgmt
@@ -1867,7 +1867,6 @@ python-setuptools_scm
 python-setuptools_scm_git_archive
 python-simpleline
 python-six
-python-slip
 python-snowballstemmer
 python-sortedcontainers
 python-soupsieve
