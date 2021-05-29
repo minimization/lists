@@ -1531,7 +1531,6 @@ python-requests-oauthlib
 python-rpm-generators
 python-rpm-macros
 python-rtslib
-python-schedutils
 python-scour
 python-semantic_version
 python-setuptools
